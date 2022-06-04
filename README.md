@@ -1,19 +1,18 @@
+![image](./images/hongsukchoi_photo.jpg){: style="float: left; width: 175px; height: 225px; margin-right: 1em; margin-top: 0.5em  "}
 
-# Hongsuk Benjamin Choi
-![avatar](./images/hongsukchoi_photo.jpg){: height="225px" width="175px" .align-right}
-
-
-## ML Research Engineer
-I am currently a ML Research Engineer in Samsung Research America (SRA), New York.
-
+### ML Research Engineer
+I am currently an ML Research Engineer in Samsung Research America (SRA), New York. 
+            
 Email: **redstonepo@gmail.com** \
 [Google Scholar](https://scholar.google.com/citations?user=CZbowncAAAAJ&hl=en) \
 [CV](CV.pdf) \
-[Github](https://github.com/hongsukchoi)
-
+[Github](https://github.com/hongsukchoi) \
+[Linkedin](https://www.linkedin.com/in/hongsuk-choi-6b081a143/)
+        
+<br>
 
 ### Research Interests
-Human-understanding computer vision, which includes 3D human reconstruction and human behavior recognition.
+Human-understanding computer vision, which includes Motion Capture and 3D human reconstruction.
 
 ### Publications (Selected)
 
@@ -90,7 +89,7 @@ In <b> CVPR 2021 </b>
 
 <!--Pose2Mesh-->
 <p>
-<img src="images/Pose2Mesh_ECCV2020.png" align="left" style="width:360px; height:180px; margin-right:10px; vertical-align=middle;">
+<img src="images/Pose2Mesh_ECCV2020.png" align="left" style="width:360px; height:195px; margin-right:10px; vertical-align=middle;">
 <b> <font color="0066CC"> Pose2Mesh: Graph Convolutional Network for 3D Human Pose and Mesh Recovery from a 2D Human Pose </font> </b>
 <br>
 Hongsuk Choi (*), <b> Gyeongsik Moon (*) </b>, Kyoung Mu Lee <b>(* equal contribution)</b>
@@ -108,7 +107,7 @@ In <b> ECCV 2020 </b>
 <img src="images/SNU.png" width="100px" height="100px">
 </p>
 <p align="center">
-<b>SNU Distinguished Master Dissertation Award</b> (2021).
+<b>SNU Distinguished Master Dissertation Award</b> (2022).
 </p>
 
 <p align="middle">
@@ -127,10 +126,10 @@ In <b> ECCV 2020 </b>
 
 
 ### Service
-* A Reviewer for computer vision and machine learning conferences.
-    * <b>CVPR</b>, <b>ICCV</b> (2021), <b>ECCV</b> and others.
-* A Reviewer for computer vision journals.
-    * <b>TPAMI</b>, IEEE TIP and others. 
+* A Reviewer for computer vision and machine learning conferences.  
+\- <b>CVPR</b>, <b>ICCV</b>, <b>ECCV</b> and others.
+* A Reviewer for computer vision journals.  
+\- <b>TPAMI</b>, IEEE TIP and others. 
 
 
 ### Experience
