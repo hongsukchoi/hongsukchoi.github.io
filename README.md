@@ -14,6 +14,8 @@ Email: **redstonepo@gmail.com** \
 ### Research Interests
 Human-understanding computer vision, which includes Motion Capture and 3D human reconstruction.
 
+<br>
+
 ### Publications (Selected)
 
 <!--HandOccNet-->
@@ -89,7 +91,7 @@ In <b> CVPR 2021 </b>
 
 <!--Pose2Mesh-->
 <p>
-<img src="images/Pose2Mesh_ECCV2020.png" align="left" style="width:360px; height:195px; margin-right:10px; vertical-align=middle;">
+<img src="images/Pose2Mesh_ECCV2020.png" align="left" style="width:360px; height:195        px; margin-right:10px; vertical-align=middle;">
 <b> <font color="0066CC"> Pose2Mesh: Graph Convolutional Network for 3D Human Pose and Mesh Recovery from a 2D Human Pose </font> </b>
 <br>
 Hongsuk Choi (*), <b> Gyeongsik Moon (*) </b>, Kyoung Mu Lee <b>(* equal contribution)</b>
@@ -99,7 +101,7 @@ In <b> ECCV 2020 </b>
 [<a href="https://arxiv.org/abs/2008.09047">ARXIV</a>] [<a href="https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123520749.pdf">PDF</a>] [<a href="https://github.com/hongsukchoi/Pose2Mesh_RELEASE">CODE</a>] [<a href="https://youtu.be/utaHeByNauc">VIDEO</a>]
 </p>
 
-<br>
+<br>    
 
 ### Honors
 
@@ -124,6 +126,7 @@ In <b> ECCV 2020 </b>
 <b>Qualcomm IT Tour 2019 presentation competition</b> (2019).
 </p>
 
+<br>
 
 ### Service
 * A Reviewer for computer vision and machine learning conferences.  
@@ -131,6 +134,7 @@ In <b> ECCV 2020 </b>
 * A Reviewer for computer vision journals.  
 \- <b>TPAMI</b>, IEEE TIP and others. 
 
+<br>
 
 ### Experience
 <p align="middle">
