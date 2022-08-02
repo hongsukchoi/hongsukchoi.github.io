@@ -35,7 +35,7 @@ In <b>3DV 2022</b>
 <!--HandOccNet-->
 <p>
 <img src="images/HandOccNet_CVPR2022.png" align="left" style="width:360px; height:180px; margin-right:10px; vertical-align=middle;">
-<b> <font color="0066CC"> **HandOccNet: Occlusion-Robust 3D Hand Mesh Estimation Network** </font> </b>
+<b> <font color="0066CC"> HandOccNet: Occlusion-Robust 3D Hand Mesh Estimation Network </font> </b>
 <br>
 JoonKyu Park (*), Yeonguk Oh (*), Gyeongsik Moon (*), <b>Hongsuk Choi</b>, Kyoung Mu Lee <b>(* equal contribution)</b>
 <br>
