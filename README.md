@@ -1,7 +1,7 @@
 ![image](./images/hongsukchoi_photo_0.png){: style="float: left; width: 175px; height: 225px; margin-right: 1em; margin-top: 0.5em  "}
 
 ### ML Research Engineer
-I am currently an ML Research Engineer in Samsung Research America (SRA), New York. 
+I am currently an ML Research Engineer in Samsung Research America (SRA), New York.
             
 Email: **redstonepo@gmail.com** \
 [Google Scholar](https://scholar.google.com/citations?user=CZbowncAAAAJ&hl=en) \
@@ -20,8 +20,8 @@ Human-understanding computer vision, which includes Motion Capture and 3D human 
 
 <!--MonoNHR-->
 <p>
-<img src="images/MonoNHR_3DV2022.png" align="left" style="width:360px; height:180px; margin-right:10px; vertical-align=middle;">
-<b> <font color="0066CC"> MonoNHR: Monocular Neural Human Renderer </font> </b>
+<img src="images/MonoNHR_3DV2022.gif" align="left" style="width:360px; height:180px; margin-right:10px; vertical-align=middle;">
+<b><font color="0066CC"> MonoNHR: Monocular Neural Human Renderer </font></b>
 <br>
 <b>Hongsuk Choi (*)</b>, Gyeongsik Moon (*), Matthieu Armando, Vincent Leroy, Kyoung Mu Lee, Gregory Rogez <b>(* equal contribution)</b>
 <br>
@@ -35,7 +35,7 @@ In <b>3DV 2022</b>
 <!--HandOccNet-->
 <p>
 <img src="images/HandOccNet_CVPR2022.png" align="left" style="width:360px; height:180px; margin-right:10px; vertical-align=middle;">
-<b> <font color="0066CC"> HandOccNet: Occlusion-Robust 3D Hand Mesh Estimation Network </font> </b>
+<b> <font color="0066CC"> **HandOccNet: Occlusion-Robust 3D Hand Mesh Estimation Network** </font> </b>
 <br>
 JoonKyu Park (*), Yeonguk Oh (*), Gyeongsik Moon (*), <b>Hongsuk Choi</b>, Kyoung Mu Lee <b>(* equal contribution)</b>
 <br>
@@ -123,30 +123,30 @@ In <b>ECCV 2020</b>
 <img src="images/SNU.png" width="100px" height="100px">
 </p>
 <p align="center">
-<b>SNU Distinguished Master Dissertation Award</b> (2022).
+<b>SNU Distinguished Master Dissertation Award</b> (2022)
 </p>
 
 <p align="middle">
 <img src="images/3DPW_challenge_1st.png" width="240px" height="180px"><img src="images/3DPW_challenge_2nd.png" width="240px" height="180px">
 </p>
 <p align="center">
-  <b>1st place</b> and <b>2nd place</b> at the <b>3D human pose estimation in the wild (3DPW) challenge</b> of a without association track in joint orientation and position metrics, respectively <br> (workshop in conjunction with <b>ECCV 2020</b>).
+  <b>1st place</b> and <b>2nd place</b> at the <b>3D human pose estimation in the wild (3DPW) challenge</b> of a without association track in joint orientation and position metrics, respectively <br> (workshop in conjunction with <b>ECCV 2020</b>)
 </p>
 
 <p align="middle">
 <img src="images/Qualcomm.png" width="225px" height="80px">
 </p>
 <p align="center">
-<b>Qualcomm IT Tour 2019 presentation competition 1st place</b> (2019).
+<b>Qualcomm IT Tour 2019 presentation competition 1st place</b> (2019)
 </p>
 
 <br>
 
 ### Service
-* A Reviewer for computer vision and machine learning conferences.  
-\- <b>CVPR</b>, <b>ICCV</b>, <b>ECCV</b> and others.
-* A Reviewer for computer vision journals.  
-\- <b>TPAMI</b>, IEEE TIP and others. 
+* A Reviewer for computer vision and machine learning conferences 
+\- <b>CVPR</b>, <b>ICCV</b>, <b>ECCV</b> and others
+* A Reviewer for computer vision journals
+\- <b>TPAMI</b>, IEEE TIP and others
 
 <br>
 
