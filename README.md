@@ -1,13 +1,13 @@
 ![image](./images/hongsukchoi_photo_0.png){: style="float: left; width: 175px; height: 225px; margin-right: 1em; margin-top: 0.5em  "}
 
 ### ML Research Engineer
-I am currently an ML Research Engineer in Samsung Robotics AI center, New York. Please refer to my CV for more information!
-            
+I am currently an ML Research Engineer in Samsung Robotics AI center, New York. Please refer to my CV for more information! **[CV](CV_Hongsuk_Choi.pdf)**
+
 Email: **redstonepo@gmail.com** \
 [Google Scholar](https://scholar.google.com/citations?user=CZbowncAAAAJ&hl=en) \
-[CV](CV_Hongsuk_Choi.pdf) \
-[Github](https://github.com/hongsukchoi) \
-[Linkedin](https://www.linkedin.com/in/hongsuk-choi-6b081a143/)
+[Linkedin](https://www.linkedin.com/in/hongsuk-choi-6b081a143/) \
+[Github](https://github.com/hongsukchoi)
+
         
 <br>
 
