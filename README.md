@@ -21,7 +21,7 @@ Email: **redstonepo@gmail.com** \
 
 <!--Rethinking-->
 <p>
-<img src="images/Pretrain_ICLR2023,obg" align="left" style="width:360px; height:180px; margin-right:10px; vertical-align=middle;">
+<img src="images/Pretrain_ICLR2023.png" align="left" style="width:360px; height:180px; margin-right:10px; vertical-align=middle;">
 <b><font color="0066CC"> Empirical Study of Pre-training a Backbone for 3D Human Pose and Shape Estimation </font></b>
 <br>
 <b>Hongsuk Choi (*)</b>, Hyeongjin Nam (*), Taeryung Lee, Gyeongsik Moon, Kyoung Mu Lee <b>(* equal contribution)</b>
