@@ -1,7 +1,7 @@
 ![image](./images/hongsukchoi_photo_0.png){: style="float: left; width: 175px; height: 225px; margin-right: 1em; margin-top: 0.5em  "}
 
 ### ML Research Engineer
-I am currently an ML Research Engineer in Samsung Robotics AI center, New York. Please refer to my CV for more information! **[CV](CV_Hongsuk_Choi.pdf)**
+I am currently an ML Research Engineer in Samsung Robotics AI center, New York. Please refer to my CV for more information! **[CV](CV_Hongsuk_Choi_Feb2023.pdf)**
 
 Email: **redstonepo@gmail.com** \
 [Google Scholar](https://scholar.google.com/citations?user=CZbowncAAAAJ&hl=en) \
@@ -12,11 +12,27 @@ Email: **redstonepo@gmail.com** \
 <br>
 
 ### Research Interests
-3D comptuer vision related to motion capture, human hand &  body reconstruction, and robotics.
+3D comptuer vision related to motion capture, human hand &  body reconstruction, and robotics perception.
 
 <br>
 
 ### Publications (Selected)
+
+
+<!--Rethinking-->
+<p>
+<img src="images/Pretrain_ICLR2023,obg" align="left" style="width:360px; height:180px; margin-right:10px; vertical-align=middle;">
+<b><font color="0066CC"> Empirical Study of Pre-training a Backbone for 3D Human Pose and Shape Estimation </font></b>
+<br>
+<b>Hongsuk Choi (*)</b>, Hyeongjin Nam (*), Taeryung Lee, Gyeongsik Moon, Kyoung Mu Lee <b>(* equal contribution)</b>
+<br>
+In <b>ICLR 2023</b>
+<br>
+[ARXIV] 
+<!-- [<a href="https://arxiv.org/abs/2210.00627">ARXIV</a>] [<a href="https://youtu.be/9-hfGf7dRw4">VIDEO</a>] -->
+</p>
+
+<br>
 
 <!--MonoNHR-->
 <p>
@@ -27,7 +43,7 @@ Email: **redstonepo@gmail.com** \
 <br>
 In <b>3DV 2022</b>
 <br>
-<!-- [<a href="https://arxiv.org/abs/2203.14564">ARXIV</a>] [<a href="https://github.com/namepllet/HandOccNet">CODE</a>] -->
+[<a href="https://arxiv.org/abs/2210.00627">ARXIV</a>] [<a href="https://youtu.be/9-hfGf7dRw4">VIDEO</a>]
 </p>
 
 <br>
