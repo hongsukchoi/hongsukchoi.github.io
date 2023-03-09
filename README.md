@@ -1,7 +1,8 @@
+## Hongsuk Benjamin Choi
 ![image](./images/hongsukchoi_photo_0.png){: style="float: left; width: 175px; height: 225px; margin-right: 1em; margin-top: 0.5em  "}
 
-### ML Research Engineer
-I am currently an ML Research Engineer in Samsung Robotics AI center, New York. Please refer to my CV for more information! **[CV](CV_Hongsuk_Choi_Feb2023.pdf)**
+### ML/CV Researcher
+I am currently an ML/CV Researcher at Samsung AI center, New York. Please refer to my CV for more information! **[CV](CV_Hongsuk_Choi_Feb2023.pdf)**
 
 Email: **redstonepo@gmail.com** \
 [Google Scholar](https://scholar.google.com/citations?user=CZbowncAAAAJ&hl=en) \
