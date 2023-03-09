@@ -1,4 +1,3 @@
-## Hongsuk Benjamin Choi
 ![image](./images/hongsukchoi_photo_0.png){: style="float: left; width: 175px; height: 225px; margin-right: 1em; margin-top: 0.5em  "}
 
 ### ML/CV Researcher
@@ -166,7 +165,7 @@ In <b>ECCV 2020</b>
 ### Honors
 
 <p align="middle">
-<img src="images/Master_dissertation_award.jpg" width="100px" height="150px">
+<img src="images/Master_dissertation_award.jpg" width="160px" height="240px">
 </p>
 <p align="center">
 <b>SNU Distinguished Master Dissertation Award</b> (2022)
