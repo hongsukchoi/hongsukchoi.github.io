@@ -1,3 +1,5 @@
-theme: minima #jekyll-theme-cayman
 title: Hongsuk Benjamin Choi
-# description: Please refer to CV for more information.
+# description: Nice to meet you!
+remote_theme: pages-themes/slate@v0.2.0
+plugins:
+- jekyll-remote-theme
