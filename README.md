@@ -166,7 +166,7 @@ In <b>ECCV 2020</b>
 ### Honors
 
 <p align="middle">
-<img src="images/SNU.png" width="100px" height="100px">
+<img src="images/Master_dissertation_award.jpg" width="100px" height="150px">
 </p>
 <p align="center">
 <b>SNU Distinguished Master Dissertation Award</b> (2022)
