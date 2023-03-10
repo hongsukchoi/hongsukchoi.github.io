@@ -1,7 +1,7 @@
 ![image](./images/hongsukchoi_photo_0.png){: style="float: left; width: 175px; height: 225px; margin-right: 1em; margin-top: 0.5em  "}
 
 ### Researcher
-I am currently an Machine Learning / Computer Vision Researcher at Samsung AI center, New York. Please refer to my **[CV](CV_Hongsuk_Choi_Feb2023.pdf)** for more information:)
+I am currently an Machine Learning / Computer Vision Researcher at Samsung AI center, New York. Please refer to my **[CV](CV_Hongsuk_Choi_Feb2023.pdf)** for more information.
 
 Email: **redstonepo@gmail.com** \
 [Google Scholar](https://scholar.google.com/citations?user=CZbowncAAAAJ&hl=en) \
@@ -22,7 +22,7 @@ Email: **redstonepo@gmail.com** \
 <!--Rethinking-->
 <p>
 <img src="images/Pretrain_ICLR2023.png" align="left" style="width:360px; height:200px; margin-right:10px;  vertical-align=middle;">
-<div style="margin-bottom:120px;">
+<div style="margin-bottom:80px;">
 <b><font color="0066CC"> Rethinking Self-Supervised Visual Representation Learning in Pre-training for 3D Human Pose and Shape Estimation </font></b>
 <br>
 <b>Hongsuk Choi (*)</b>, Hyeongjin Nam (*), Taeryung Lee, Gyeongsik Moon, Kyoung Mu Lee <b>(* equal contribution)</b>
@@ -39,7 +39,7 @@ In <b>ICLR 2023</b>
 <!--MonoNHR-->
 <p>
 <img src="images/MonoNHR_3DV2022.gif" align="left" style="width:360px; height:180px; margin-right:10px;  vertical-align=middle;">
-<div style="margin-bottom:100px;">
+<div style="margin-bottom:60px;">
 
 <b><font color="0066CC"> MonoNHR: Monocular Neural Human Renderer </font></b>
 <br>
@@ -56,7 +56,7 @@ In <b>3DV 2022</b>
 <!--HandOccNet-->
 <p>
 <img src="images/HandOccNet_CVPR2022.png" align="left" style="width:360px; height:180px; margin-right:10px;  vertical-align=middle;">
-<div style="margin-bottom:100px;">
+<div style="margin-bottom:60px;">
 
 <b> <font color="0066CC"> HandOccNet: Occlusion-Robust 3D Hand Mesh Estimation Network </font> </b>
 <br>
@@ -74,7 +74,7 @@ In <b>CVPR 2022</b>
 <!--3DCrowdNet-->
 <p>
 <img src="images/3DCrowdNet_CVPR2022.png" align="left" style="width:360px; height:180px; margin-right:10px;  vertical-align=middle;">
-<div style="margin-bottom:100px;">
+<div style="margin-bottom:60px;">
 
 <b> <font color="0066CC"> Learning to Estimate Robust 3D Human Mesh from In-the-Wild Crowded Scenes </font> </b>
 <br>
@@ -92,7 +92,7 @@ In <b>CVPR 2022</b>
 <!--Hand4Whole-->
 <p>
 <img src="images/Hand4Whole_CVPRW2022.png" align="left" style="width:360px; height:180px; margin-right:10px;  vertical-align=middle;">
-<div style="margin-bottom:100px;">
+<div style="margin-bottom:60px;">
 
 <b> <font color="0066CC"> Accurate 3D Hand Pose Estimation for Whole-Body 3D Human Mesh Estimation </font> </b>
 <br>
@@ -110,7 +110,7 @@ In <b>CVPRW 2022</b>
 <!--NeuralAnnot-->
 <p>
 <img src="images/NeuralAnnot_CVPRW2022.png" align="left" style="width:360px; height:180px; margin-right:10px;  vertical-align=middle;">
-<div style="margin-bottom:120px;">
+<div style="margin-bottom:60px;">
 
 <b> <font color="0066CC"> NeuralAnnot: Neural Annotator for 3D Human Mesh Training Sets </font> </b>
 <br>
@@ -128,7 +128,7 @@ In <b>CVPRW 2022</b>
 <!--TCMR-->
 <p>
 <img src="images/TCMR_CVPR2021.gif" align="left" style="width:360px; height:180px; margin-right:10px;  vertical-align=middle;">
-<div style="margin-bottom:100px;">
+<div style="margin-bottom:60px;">
 
 <b> <font color="0066CC"> Beyond Static Features for Temporally Consistent 3D Human Pose and Shape from a Video </font> </b>
 <br>
@@ -146,7 +146,7 @@ In <b>CVPR 2021</b>
 <!--Pose2Mesh-->
 <p>
 <img src="images/Pose2Mesh_ECCV2020.png" align="left" style="width:360px; height:200px; margin-right:10px;  vertical-align=middle;">
-<div style="margin-bottom:140px;">
+<div style="margin-bottom:100px;">
 
 <b> <font color="0066CC"> Pose2Mesh: Graph Convolutional Network for 3D Human Pose and Mesh Recovery from a 2D Human Pose </font> </b>
 <br>
