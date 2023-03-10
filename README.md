@@ -1,6 +1,6 @@
 ![image](./images/hongsukchoi_photo_0.png){: style="float: left; width: 175px; height: 225px; margin-right: 1em; margin-top: 0.5em  "}
 
-### Researcher
+### **Researcher**
 I am currently an Machine Learning / Computer Vision Researcher at Samsung AI center, New York. Please refer to my **[CV](CV_Hongsuk_Choi_Feb2023.pdf)** for more information.
 
 Email: **redstonepo@gmail.com** \
@@ -11,12 +11,12 @@ Email: **redstonepo@gmail.com** \
         
 <br>
 
-### Research Interests
+### **Research Interests**
 3D comptuer vision related to motion capture, human hand &  body reconstruction, and robotics perception.
 
 <br>
 
-### Publications (Selected)
+### **Publications (Selected)**
 
 
 <!--Rethinking-->
@@ -25,7 +25,7 @@ Email: **redstonepo@gmail.com** \
 <div style="margin-bottom:80px;">
 <b><font color="0066CC"> Rethinking Self-Supervised Visual Representation Learning in Pre-training for 3D Human Pose and Shape Estimation </font></b>
 <br>
-<b>Hongsuk Choi (*)</b>, Hyeongjin Nam (*), Taeryung Lee, Gyeongsik Moon, Kyoung Mu Lee <b>(* equal contribution)</b>
+<b>Hongsuk Choi (*)</b>, Hyeongjin Nam (*), Taeryung Lee, Gyeongsik Moon, Kyoung Mu Lee (* equal contribution)
 <br>
 In <b>ICLR 2023</b>
 <br>
@@ -43,7 +43,7 @@ In <b>ICLR 2023</b>
 
 <b><font color="0066CC"> MonoNHR: Monocular Neural Human Renderer </font></b>
 <br>
-<b>Hongsuk Choi (*)</b>, Gyeongsik Moon (*), Matthieu Armando, Vincent Leroy, Kyoung Mu Lee, Gregory Rogez <b>(* equal contribution)</b>
+<b>Hongsuk Choi (*)</b>, Gyeongsik Moon (*), Matthieu Armando, Vincent Leroy, Kyoung Mu Lee, Gregory Rogez (* equal contribution)
 <br>
 In <b>3DV 2022</b>
 <br>
@@ -60,7 +60,7 @@ In <b>3DV 2022</b>
 
 <b> <font color="0066CC"> HandOccNet: Occlusion-Robust 3D Hand Mesh Estimation Network </font> </b>
 <br>
-JoonKyu Park (*), Yeonguk Oh (*), Gyeongsik Moon (*), <b>Hongsuk Choi</b>, Kyoung Mu Lee <b>(* equal contribution)</b>
+JoonKyu Park (*), Yeonguk Oh (*), Gyeongsik Moon (*), <b>Hongsuk Choi</b>, Kyoung Mu Lee (* equal contribution)
 <br>
 In <b>CVPR 2022</b>
 <br>
@@ -150,7 +150,7 @@ In <b>CVPR 2021</b>
 
 <b> <font color="0066CC"> Pose2Mesh: Graph Convolutional Network for 3D Human Pose and Mesh Recovery from a 2D Human Pose </font> </b>
 <br>
-<b>Hongsuk Choi (*)</b>,  Gyeongsik Moon (*) , Kyoung Mu Lee <b>(* equal contribution)</b>
+<b>Hongsuk Choi (*)</b>,  Gyeongsik Moon (*) , Kyoung Mu Lee (* equal contribution)
 <br>
 In <b>ECCV 2020</b>
 <br>
@@ -162,7 +162,7 @@ In <b>ECCV 2020</b>
 <br>    
 
 
-### Honors
+### **Honors**
 
 <p align="middle">
 <img src="images/Master_dissertation_award.jpg" width="160px" height="240px">
@@ -187,7 +187,7 @@ In <b>ECCV 2020</b>
 
 <br>
 
-### Service
+### **Service*
 * A Reviewer for computer vision and machine learning conferences 
 \- <b>CVPR</b>, <b>ICCV</b>, <b>ECCV</b> and others
 * A Reviewer for computer vision journals
@@ -195,12 +195,12 @@ In <b>ECCV 2020</b>
 
 <br>
 
-### Experience
+### **Experience**
 <p align="middle">
 <img src="images/sra.png" width="250px" height="50px">
 </p>
 <p align="center">
-  <b>ML research engineer</b>, <b>Samsung Research America</b>, New York, NY, USA <br> (Jun. 2022 - present)
+  <b>ML/CV Researcher</b>, <b>Samsung Research America</b>, New York, NY, USA <br> (Jun. 2022 - present)
 </p>
 
 <p align="middle">
