@@ -92,7 +92,7 @@ In <b>CVPR 2022</b>
 <!--Hand4Whole-->
 <p>
 <img src="images/Hand4Whole_CVPRW2022.png" align="left" style="width:360px; height:180px; margin-right:10px;  vertical-align=middle;">
-<div style="margin-bottom:60px;">
+<div style="margin-bottom:80px;">
 
 <b> <font color="0066CC"> Accurate 3D Hand Pose Estimation for Whole-Body 3D Human Mesh Estimation </font> </b>
 <br>
@@ -110,7 +110,7 @@ In <b>CVPRW 2022</b>
 <!--NeuralAnnot-->
 <p>
 <img src="images/NeuralAnnot_CVPRW2022.png" align="left" style="width:360px; height:180px; margin-right:10px;  vertical-align=middle;">
-<div style="margin-bottom:60px;">
+<div style="margin-bottom:80px;">
 
 <b> <font color="0066CC"> NeuralAnnot: Neural Annotator for 3D Human Mesh Training Sets </font> </b>
 <br>
