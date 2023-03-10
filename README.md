@@ -1,7 +1,7 @@
 ![image](./images/hongsukchoi_photo_0.png){: style="float: left; width: 175px; height: 225px; margin-right: 1em; margin-top: 0.5em  "}
 
 ### **Researcher**
-I am currently an Machine Learning / Computer Vision Researcher at Samsung AI center, New York. Please refer to my **[CV](CV_Hongsuk_Choi_Feb2023.pdf)** for more information.
+I am currently a Machine Learning / Computer Vision Researcher at Samsung AI center, New York. Please refer to my **[CV](CV_Hongsuk_Choi_Feb2023.pdf)** for more information.
 
 Email: **redstonepo@gmail.com** \
 [Google Scholar](https://scholar.google.com/citations?user=CZbowncAAAAJ&hl=en) \
@@ -22,7 +22,7 @@ Email: **redstonepo@gmail.com** \
 <!--Rethinking-->
 <p>
 <img src="images/Pretrain_ICLR2023.png" align="left" style="width:360px; height:200px; margin-right:10px;  vertical-align=middle;">
-<div style="margin-bottom:80px;">
+<div style="margin-bottom:60px;">
 <b><font color="0066CC"> Rethinking Self-Supervised Visual Representation Learning in Pre-training for 3D Human Pose and Shape Estimation </font></b>
 <br>
 <b>Hongsuk Choi (*)</b>, Hyeongjin Nam (*), Taeryung Lee, Gyeongsik Moon, Kyoung Mu Lee (* equal contribution)
@@ -56,7 +56,7 @@ In <b>3DV 2022</b>
 <!--HandOccNet-->
 <p>
 <img src="images/HandOccNet_CVPR2022.png" align="left" style="width:360px; height:180px; margin-right:10px;  vertical-align=middle;">
-<div style="margin-bottom:60px;">
+<div style="margin-bottom:50px;">
 
 <b> <font color="0066CC"> HandOccNet: Occlusion-Robust 3D Hand Mesh Estimation Network </font> </b>
 <br>
@@ -128,7 +128,7 @@ In <b>CVPRW 2022</b>
 <!--TCMR-->
 <p>
 <img src="images/TCMR_CVPR2021.gif" align="left" style="width:360px; height:180px; margin-right:10px;  vertical-align=middle;">
-<div style="margin-bottom:60px;">
+<div style="margin-bottom:50px;">
 
 <b> <font color="0066CC"> Beyond Static Features for Temporally Consistent 3D Human Pose and Shape from a Video </font> </b>
 <br>
