@@ -3,6 +3,7 @@
 ### **Researcher**
 I am currently a Machine Learning / Computer Vision Researcher at Samsung AI center, New York. Please refer to my **[CV](CV_Hongsuk_Choi_Feb2023.pdf)** for more information.
 
+\
 Email: **redstonepo@gmail.com** \
 [Google Scholar](https://scholar.google.com/citations?user=CZbowncAAAAJ&hl=en) \
 [Linkedin](https://www.linkedin.com/in/hongsuk-choi-6b081a143/) \
