@@ -1,7 +1,7 @@
 ![image](./images/hongsukchoi_photo_0.png){: style="float: left; width: 175px; height: 225px; margin-right: 1em; margin-top: 0.5em  "}
 
 ### **Researcher**
-I am currently a Machine Learning / Computer Vision Researcher at Samsung AI center, New York. Please refer to my **[CV](CV_Hongsuk_Choi.pdf)** for more information.
+I am currently a Machine Learning / Computer Vision Researcher at Samsung AI center, New York. Please refer to my **[CV](images/CV_Hongsuk_Choi.pdf)** for more information.
 Email: **redstonepo@gmail.com** 
 
 [Google Scholar](https://scholar.google.com/citations?user=CZbowncAAAAJ&hl=en) \
