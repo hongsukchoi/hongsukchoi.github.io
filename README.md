@@ -1,7 +1,7 @@
 ![image](./images/hongsukchoi_photo_0.png){: style="float: left; width: 175px; height: 225px; margin-right: 1em; margin-top: 0.5em  "}
 
 ### **Researcher**
-I am currently a Machine Learning / Computer Vision Researcher at Samsung AI center, New York. Please refer to my **[CV](CV_Hongsuk_Choi_Feb2023.pdf)** for more information.
+I am currently a Machine Learning / Computer Vision Researcher at Samsung AI center, New York. Please refer to my **[CV](CV_Hongsuk_Choi.pdf)** for more information.
 Email: **redstonepo@gmail.com** 
 
 [Google Scholar](https://scholar.google.com/citations?user=CZbowncAAAAJ&hl=en) \
@@ -11,8 +11,10 @@ Email: **redstonepo@gmail.com**
         
 <br>
 
-### **Research Interests**
-3D comptuer vision related to motion capture, human hand &  body reconstruction, and robotics perception.
+### **Expertise**
+3D Human Body/Hand Reconstruction, Machine Learning, Neural Human Rendering, Motion Capture, and Robotics Perception.  
+
+Over <b>450 citations<b>, three active GitHub projects with total <b>830 stars<b>. <b>4 first author papers<b> in top CV/ML conferences (CVPR, ECCV, ICLR). Got <b>EB1B (Outstanding Researcher)<b> approval from USCIS. Started research engineering career from 2018.
 
 <br>
 
@@ -187,9 +189,9 @@ In <b>ECCV 2020</b>
 
 <br>
 
-### **Service*
+### **Service**
 * A Reviewer for computer vision and machine learning conferences 
-\- <b>CVPR</b>, <b>ICCV</b>, <b>ECCV</b> and others
+\- <b>CVPR</b>, <b>ICCV</b>, <b>ECCV</b>, <b>NeuRIPS</b> and others
 * A Reviewer for computer vision journals
 \- <b>TPAMI</b>, IEEE TIP and others
 
