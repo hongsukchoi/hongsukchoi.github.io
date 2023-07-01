@@ -12,7 +12,7 @@ Email: **redstonepo@gmail.com**
 <br>
 
 ### **Expertise**
-3D Human Body/Hand Reconstruction, Machine Learning, Neural Human Rendering, Motion Capture, and Robotics Perception.  
+Machine Learning and Computer Vision. In-depth Experience in 3D Computer Vision, AR/VR, Robotics Perception, NeRF, Motion Capture, and Object Tracking.  
 
 Over <b>450 citations</b>, three active GitHub projects with total <b>830 stars</b>. <b>4 first author papers</b> in top CV/ML conferences (CVPR, ECCV, ICLR). Got <b>EB1B (Outstanding Researcher)</b> approval from USCIS. Started the research engineer career from 2018.
 
