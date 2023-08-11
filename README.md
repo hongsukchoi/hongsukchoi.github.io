@@ -1,7 +1,7 @@
 ![image](./images/hongsukchoi_photo_0.png){: style="float: left; width: 175px; height: 225px; margin-right: 1em; margin-top: 0.5em  "}
 
 ### **Researcher**
-I am a Machine Learning / Computer Vision Researcher at Samsung AI center, New York. I did my Master's at Seoul National University (SNU) computer vision lab, advised by Prof. <a href="https://cv.snu.ac.kr/index.php/kmlee/"> Kyoung Mu Lee<\a>, Editor in Chief (EIC), IEEE Trans. on PAMI (Pattern Analysis and Machine Intelligence). Please refer to my **[CV](images/CV_Hongsuk_Choi.pdf)** for more information.
+I am a Machine Learning / Computer Vision Researcher at Samsung AI center, New York. I did my Master's at Seoul National University (SNU) computer vision lab, advised by Prof. <a href="https://cv.snu.ac.kr/index.php/kmlee/"> Kyoung Mu Lee</a>, Editor in Chief (EIC), IEEE Trans. on PAMI (Pattern Analysis and Machine Intelligence). Please refer to my **[CV](images/CV_Hongsuk_Choi.pdf)** for more information.
 Email: **redstonepo@gmail.com** 
 
 [Google Scholar](https://scholar.google.com/citations?user=CZbowncAAAAJ&hl=en) \
@@ -33,6 +33,9 @@ Over <b>500 citations</b>, three active GitHub projects with total <b>850 stars<
 [<a href="https://youtu.be/RoJwz4-d0QI">VIDEO</a>]
 </div>
 </p>
+<br>
+<br>
+<br>
 
 
 <!--Rethinking-->
