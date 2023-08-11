@@ -1,7 +1,7 @@
 ![image](./images/hongsukchoi_photo_0.png){: style="float: left; width: 175px; height: 225px; margin-right: 1em; margin-top: 0.5em  "}
 
 ### **Researcher**
-I am currently a Machine Learning / Computer Vision Researcher at Samsung AI center, New York. Please refer to my **[CV](images/CV_Hongsuk_Choi.pdf)** for more information.
+I am a Machine Learning / Computer Vision Researcher at Samsung AI center, New York. I did my Master's at Seoul National University (SNU) computer vision lab, advised by Prof. <a href="https://cv.snu.ac.kr/index.php/kmlee/"> Kyoung Mu Lee<\a>, Editor in Chief (EIC), IEEE Trans. on PAMI (Pattern Analysis and Machine Intelligence). Please refer to my **[CV](images/CV_Hongsuk_Choi.pdf)** for more information.
 Email: **redstonepo@gmail.com** 
 
 [Google Scholar](https://scholar.google.com/citations?user=CZbowncAAAAJ&hl=en) \
@@ -14,11 +14,25 @@ Email: **redstonepo@gmail.com**
 ### **Expertise**
 Machine Learning and Computer Vision. In-depth Experience in 3D Computer Vision, AR/VR, Robotics Perception, NeRF, Motion Capture, and Object Tracking.  
 
-Over <b>450 citations</b>, three active GitHub projects with total <b>830 stars</b>. <b>4 first author papers</b> in top CV/ML conferences (CVPR, ECCV, ICLR). Got <b>EB1B (Outstanding Researcher)</b> approval from USCIS. Started the research engineer career from 2018.
+Over <b>500 citations</b>, three active GitHub projects with total <b>850 stars</b>. <b>4 first author papers</b> in top CV/ML conferences (CVPR, ECCV, ICLR). Got <b>EB1B (Outstanding Researcher)</b> approval from USCIS. Research career since 2018.
 
 <br>
 
 ### **Publications (Selected)**
+
+<!--HandNeRF-->
+<p>
+<img src="images/HandNeRF.png" align="left" style="width:360px; height:200px; margin-right:10px;  vertical-align=middle;">
+<div style="margin-bottom:60px;">
+<b><font color="0066CC"> HandNeRF: Learning to Synthesize Hand-object Interaction Scene </font></b>
+<br>
+<b>Hongsuk Choi</b>, Volkan Isler, Hyunsoo Park
+<br>
+<b>arxiv</b>
+<br>
+[<a href="https://youtu.be/RoJwz4-d0QI">VIDEO</a>]
+</div>
+</p>
 
 
 <!--Rethinking-->
@@ -31,8 +45,7 @@ Over <b>450 citations</b>, three active GitHub projects with total <b>830 stars<
 <br>
 In <b>ICLR 2023</b>
 <br>
-[<a href="https://arxiv.org/abs/2303.05370">ARXIV</a>] [<a>VIDEO</a>]
-<!-- [<a href="https://arxiv.org/abs/2303.05370">ARXIV</a>] [<a href="https://youtu.be/9-hfGf7dRw4">VIDEO</a>] -->
+[<a href="https://arxiv.org/abs/2303.05370">ARXIV</a>] [<a href="https://iclr.cc/virtual/2023/poster/11695">VIDEO</a>]
 </div>
 </p>
 
