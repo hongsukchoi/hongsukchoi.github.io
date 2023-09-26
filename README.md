@@ -22,7 +22,7 @@ Over <b>500 citations</b>, three active GitHub projects with total <b>850 stars<
 
 <!--HandNeRF-->
 <p>
-<img src="images/HandNeRF.png" align="left" style="width:360px; height:200px; margin-right:10px;  vertical-align=middle;">
+<img src="images/handnerf_profile_long.gif" align="left" style="width:360px; height:200px; margin-right:10px;  vertical-align=middle;">
 <div style="margin-bottom:60px;">
 <b><font color="0066CC"> HandNeRF: Learning to Synthesize Hand-object Interaction Scene </font></b>
 <br>
@@ -30,7 +30,7 @@ Over <b>500 citations</b>, three active GitHub projects with total <b>850 stars<
 <br>
 <b>arxiv</b>
 <br>
-[<a href="https://youtu.be/RoJwz4-d0QI">VIDEO</a>]
+[<a href="https://arxiv.org/pdf/2309.07891.pdf">ARXIV</a>] [<a href="https://youtu.be/RoJwz4-d0QI">VIDEO</a>]
 </div>
 </p>
 <br>
