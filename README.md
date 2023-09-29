@@ -54,6 +54,25 @@ In <b>ICLR 2023</b>
 
 <br>
 
+<!--Three Recipes-->
+<p>
+<img src="images/three_recipes.png" align="left" style="width:360px; height:200px; margin-right:10px;  vertical-align=middle;">
+<div style="margin-bottom:60px;">
+<b><font color="0066CC"> Three Recipes for Better 3D Pseudo-GTs of 3D Human Mesh Estimation in the Wild </font></b>
+<br>
+Gyeongsik Moon, <b>Hongsuk Choi</b>, Sanghyuk Chun, Jiyoung Lee, Sangdoo Yun
+
+<br>
+In <b>CVPRW 2023</b>
+<br>
+[<a href="https://arxiv.org/abs/2304.04875">ARXIV</a>] [<a href="https://openaccess.thecvf.com/content/CVPR2023W/CV4MR/papers/Moon_Three_Recipes_for_Better_3D_Pseudo-GTs_of_3D_Human_Mesh_CVPRW_2023_paper.pdf">PDF</a>] [<a href="https://github.com/mks0601/NeuralAnnot_RELEASE">HOMEPAGE</a>]
+</div>
+</p>
+
+<br>
+
+
+
 <!--MonoNHR-->
 <p>
 <img src="images/MonoNHR_3DV2022.gif" align="left" style="width:360px; height:180px; margin-right:10px;  vertical-align=middle;">
