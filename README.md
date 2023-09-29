@@ -22,7 +22,7 @@ Over <b>500 citations</b>, three active GitHub projects with total <b>850 stars<
 
 <!--HandNeRF-->
 <p>
-<img src="images/handnerf_profile_long.gif" align="left" style="width:360px; height:200px; margin-right:10px;  vertical-align=middle;">
+<img src="images/handnerf_teaser.gif" align="left" style="width:360px; height:200px; margin-right:10px;  vertical-align=middle;">
 <div style="margin-bottom:60px;">
 <b><font color="0066CC"> HandNeRF: Learning to Synthesize Hand-object Interaction Scene </font></b>
 <br>
