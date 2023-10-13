@@ -1,7 +1,7 @@
 ![image](./images/hongsukchoi_photo_0.png){: style="float: left; width: 175px; height: 225px; margin-right: 1em; margin-top: 0.5em  "}
 
 ### **Researcher**
-I am a Machine Learning / Computer Vision Researcher at Samsung AI center, New York. I did my Master's at Seoul National University (SNU) computer vision lab, advised by Prof. <a href="https://cv.snu.ac.kr/index.php/kmlee/"> Kyoung Mu Lee</a>, Editor in Chief (EIC), IEEE Trans. on PAMI (Pattern Analysis and Machine Intelligence). Please refer to my **[CV](images/CV_Hongsuk_Choi.pdf)** for more information.
+I am a Machine Learning / Computer Vision Researcher at Samsung AI center, New York. I received a Master's degree at Seoul National University (SNU) computer vision lab after converting my PhD program. I was advised by Prof. <a href="https://cv.snu.ac.kr/index.php/kmlee/"> Kyoung Mu Lee</a>, Editor in Chief (EIC), IEEE Trans. on PAMI (Pattern Analysis and Machine Intelligence). Please refer to my **[CV](images/CV_Hongsuk_Choi.pdf)** for more information.
 Email: **redstonepo@gmail.com** 
 
 [Google Scholar](https://scholar.google.com/citations?user=CZbowncAAAAJ&hl=en) \
@@ -12,9 +12,10 @@ Email: **redstonepo@gmail.com**
 <br>
 
 ### **Expertise**
-Machine Learning and Computer Vision. In-depth Experience in 3D Computer Vision, AR/VR, Robotics Perception, NeRF, Motion Capture, and Object Tracking.  
+Machine Learning and Computer Vision. Hands-on experience in realworld applications of 3D Computer Vision, Multi-modal Perception, Robotics Perception, Neural Image Generation, Motion Capture, Object Tracking, and Data Collection and Annotation.  
 
-Over <b>500 citations</b>, three active GitHub projects with total <b>850 stars</b>. <b>4 first author papers</b> in top CV/ML conferences (CVPR, ECCV, ICLR). Got <b>EB1B (Outstanding Researcher)</b> approval from USCIS. Research career since 2018.
+
+Over <b>500 citations</b>, three active GitHub projects with approximate total <b>900 stars</b>. Published/submitted <b>10 papers</b> at top Computer Vision, Machine Learning, and Robotics conferences, such as CVPR, ECCV, ICLR, in three years, 6 as the first author. 2 US patents in process. Acquired <b>EB1 (Outstanding Researcher)</b> approval from USCIS.
 
 <br>
 
@@ -24,13 +25,13 @@ Over <b>500 citations</b>, three active GitHub projects with total <b>850 stars<
 <p>
 <img src="images/handnerf_teaser.gif" align="left" style="width:360px; height:200px; margin-right:10px;  vertical-align=middle;">
 <div style="margin-bottom:60px;">
-<b><font color="0066CC"> HandNeRF: Learning to Synthesize Hand-object Interaction Scene </font></b>
+<b><font color="0066CC"> HandNeRF: Learning to Reconstruct Hand-Object Interaction Scene from a Single RGB Image </font></b>
 <br>
-<b>Hongsuk Choi</b>, Volkan Isler, Hyunsoo Park
+<b>Hongsuk Choi</b>, Nikhil Chavan-Dafle, Jiacheng Yuan, Volkan Isler, Hyunsoo Park
 <br>
 <b>arxiv</b>
 <br>
-[<a href="https://arxiv.org/pdf/2309.07891.pdf">ARXIV</a>] [<a href="https://youtu.be/RoJwz4-d0QI">VIDEO</a>]
+[<a href="https://arxiv.org/abs/2309.07891">ARXIV</a>] [<a href="https://youtu.be/AxkIFcymwIo?si=STr244Exi6cOHG_w">VIDEO</a>] [<a href="https://gitbhub.com/SamsungLabs/HandNeRF">CODE Coming Soon</a>] 
 </div>
 </p>
 <br>
