@@ -31,7 +31,7 @@ Over <b>500 citations</b>, three active GitHub projects with approximate total <
 <br>
 <b>arxiv</b>
 <br>
-[<a href="https://arxiv.org/abs/2309.07891">ARXIV</a>] [<a href="https://youtu.be/AxkIFcymwIo?si=STr244Exi6cOHG_w">VIDEO</a>] [<a href="https://gitbhub.com/SamsungLabs/HandNeRF">CODE Coming Soon</a>] 
+[<a href="https://arxiv.org/abs/2309.07891">ARXIV</a>] [<a href="https://youtu.be/AxkIFcymwIo?si=STr244Exi6cOHG_w">VIDEO</a>] [<a href="https://github.com/SamsungLabs/HandNeRF">CODE</a>] 
 </div>
 </p>
 <br>
