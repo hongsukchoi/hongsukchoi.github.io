@@ -11,15 +11,41 @@ Email: **redstonepo@gmail.com**
         
 <br>
 
-### **Expertise**
-Machine Learning and Computer Vision. Hands-on experience in realworld applications of 3D Computer Vision, Multi-modal Perception, Robotics Perception, Neural Image Generation, Motion Capture, Object Tracking, and Data Collection and Annotation.  
+### **Introduction**
+I am interested in a broad range of machine learning and computer vision topics. I have
+in-depth experience in 3D reconstruction and neural image generation.
 
-
-Over <b>500 citations</b>, three active GitHub projects with approximate total <b>900 stars</b>. Published/submitted <b>10 papers</b> at top Computer Vision, Machine Learning, and Robotics conferences, such as CVPR, ECCV, ICLR, in three years, 6 as the first author. 2 US patents in process. Acquired <b>EB1 (Outstanding Researcher)</b> approval from USCIS.
+- Published <b>9 papers</b> at top ML/CV conferences in <b>2 years of my Master’s program</b>.
+- I am the <b>first author on 7 papers</b> out of 11 papers.
+- My work has over 600 Google Scholar citations, an H-index of 6 in 3 years.
+- I maintain GitHub projects with around 1000 stars.
+- I am a green card holder in the US, having received EB1 (Outstanding Researcher) approval from USCIS.
 
 <br>
 
 ### **Publications (Selected)**
+
+
+<!--FineControlNet-->
+<p>
+<img src="images/finecontrolnet_teaser.png" align="left" style="width:360px; height:200px; margin-right:10px;  vertical-align=middle;">
+<div style="margin-bottom:60px;">
+<b><font color="0066CC"> FineControlNet: Fine-level Text Control for Image Generation with Spatially Aligned Text Control Injection </font></b>
+<br>
+<b>Hongsuk Choi (*)</b>, Isaac Kasahara (*), Selim Engin, Moritz Alexander Graule, Nikhil
+Chavan-Dafle, Volkan Isler (* equal contribution)
+<br>
+<b>arxiv</b>
+<br>
+[<a>ARXIV</a>][<a>CODE</a>] 
+</div>
+</p>
+<br>
+<br>
+<br>
+
+
+
 
 <!--HandNeRF-->
 <p>
