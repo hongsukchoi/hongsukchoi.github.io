@@ -28,7 +28,7 @@ in-depth experience in 3D reconstruction and neural image generation.
 
 <!--FineControlNet-->
 <p>
-<img src="images/finecontrolnet_teaser.png" align="left" style="width:360px; height:200px; margin-right:10px;  vertical-align=middle;">
+<img src="images/finecontrolnet_teaser.gif" align="left" style="width:360px; height:200px; margin-right:10px;  vertical-align=middle;">
 <div style="margin-bottom:60px;">
 <b><font color="0066CC"> FineControlNet: Fine-level Text Control for Image Generation with Spatially Aligned Text Control Injection </font></b>
 <br>
@@ -261,7 +261,7 @@ In <b>ECCV 2020</b>
 
 ### **Experience**
 <p align="middle">
-<img src="images/sra.png" width="250px" height="50px">
+<img src="images/SAIC-NY.png" width="50%" height="50px">
 </p>
 <p align="center">
   <b>ML/CV Researcher</b>, <b>Samsung Research America</b>, New York, NY, USA <br> (Jun. 2022 - present)
