@@ -15,7 +15,7 @@ Email: **redstonepo@gmail.com**
 I am interested in a broad range of machine learning and computer vision topics. I have
 in-depth experience in 3D reconstruction and neural image generation.
 
-- Published <b>9 papers</b> at top ML/CV conferences in <b>2 years of my Master’s program</b>.
+- Published <b>9 papers</b> at top ML/CV conferences (<b>CVPR, ECCV, ICLR</b>) in <b>2 years of my Master’s program</b>.
 - I am the <b>first author on 7 papers</b> out of 11 papers.
 - My work has over 600 Google Scholar citations, an H-index of 6 in 3 years.
 - I maintain GitHub projects with around 1000 stars.
