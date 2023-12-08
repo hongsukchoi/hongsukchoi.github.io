@@ -37,7 +37,7 @@ Chavan-Dafle, Volkan Isler (* equal contribution)
 <br>
 <b>arxiv</b>
 <br>
-[<a>ARXIV</a>][<a>CODE</a>] 
+[<a href="https://samsunglabs.github.io/FineControlNet-project-page/">WEVPAGE</a>] [<a>ARXIV</a>] [<a>CODE</a>] 
 </div>
 </p>
 <br>
@@ -49,7 +49,7 @@ Chavan-Dafle, Volkan Isler (* equal contribution)
 
 <!--HandNeRF-->
 <p>
-<img src="images/handnerf_teaser.gif" align="left" style="width:360px; height:200px; margin-right:10px;  vertical-align=middle;">
+<img src="images/3drecon.gif" align="left" style="width:360px; height:200px; margin-right:10px;  vertical-align=middle;">
 <div style="margin-bottom:60px;">
 <b><font color="0066CC"> HandNeRF: Learning to Reconstruct Hand-Object Interaction Scene from a Single RGB Image </font></b>
 <br>
