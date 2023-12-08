@@ -37,7 +37,7 @@ Chavan-Dafle, Volkan Isler (* equal contribution)
 <br>
 <b>arxiv</b>
 <br>
-[<a href="https://samsunglabs.github.io/FineControlNet-project-page/">WEVPAGE</a>] [<a>ARXIV</a>] [<a>CODE</a>] 
+[<a href="https://samsunglabs.github.io/FineControlNet-project-page/">WEBPAGE</a>] [<a>ARXIV</a>] [<a>CODE</a>] 
 </div>
 </p>
 <br>
