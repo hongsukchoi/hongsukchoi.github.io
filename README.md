@@ -28,7 +28,7 @@ in-depth experience in 3D reconstruction and neural image generation.
 
 <!--FineControlNet-->
 <p>
-<img src="images/finecontrolnet_teaser.gif" align="left" style="width:360px; height:200px; margin-right:10px;  vertical-align=middle;">
+<img src="images/finecontrolnet_teaser_clearer.gif" align="left" style="width:360px; height:200px; margin-right:10px;  vertical-align=middle;">
 <div style="margin-bottom:60px;">
 <b><font color="0066CC"> FineControlNet: Fine-level Text Control for Image Generation with Spatially Aligned Text Control Injection </font></b>
 <br>
