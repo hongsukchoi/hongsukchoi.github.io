@@ -119,7 +119,7 @@ In <b>3DV 2022</b>
 
 <!--HandOccNet-->
 <p>
-<img src="images/HandOccNet_CVPR2022.png" align="left" style="width:360px; height:180px; margin-right:10px;  vertical-align=middle;">
+<img src="images/handoccnet_teaser.gif" align="left" style="width:360px; height:180px; margin-right:10px;  vertical-align=middle;">
 <div style="margin-bottom:50px;">
 
 <b> <font color="0066CC"> HandOccNet: Occlusion-Robust 3D Hand Mesh Estimation Network </font> </b>
