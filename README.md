@@ -16,9 +16,10 @@ I am interested in a broad range of machine learning and computer vision topics.
 in-depth experience in 3D reconstruction and neural image generation.
 
 - Published <b>9 papers</b> at top ML/CV conferences (<b>CVPR, ECCV, ICLR</b>) in <b>2 years of my Master’s program</b>.
-- I am the <b>first author on 7 papers</b> out of 11 papers.
+- <b>First authored on 7 papers</b> out of 11 papers and filed 3 patents.
+- Hands-on experience in various deep learning architectures: GraphCNN, Sparse 3D CNN, Transformer, NeRF, GRU, Diffusion-based LLM, Contrastive Learning, GAN, etc.
 - My work has over 600 Google Scholar citations, an H-index of 6 in 3 years.
-- I maintain GitHub projects with around 1000 stars.
+- I maintain GitHub projects with over 1000 stars.
 - I am a green card holder in the US, having received EB1 (Outstanding Researcher) approval from USCIS.
 
 <br>
