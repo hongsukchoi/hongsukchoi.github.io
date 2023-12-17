@@ -12,6 +12,9 @@ Email: **redstonepo@gmail.com**
 <br>
 
 ### **Introduction**
+
+> Open to work
+
 I am interested in a broad range of machine learning and computer vision topics. I have
 in-depth experience in 3D reconstruction and neural image generation.
 
@@ -38,7 +41,7 @@ Chavan-Dafle, Volkan Isler (* equal contribution)
 <br>
 <b>arxiv</b>
 <br>
-[<a href="https://samsunglabs.github.io/FineControlNet-project-page/">WEBPAGE</a>] [<a>ARXIV</a>] [<a>CODE</a>] 
+[<a href="https://samsunglabs.github.io/FineControlNet-project-page/">WEBPAGE</a>] [<a href="https://arxiv.org/abs/2312.09252">ARXIV</a>] [<a>CODE</a>] 
 </div>
 </p>
 <br>
