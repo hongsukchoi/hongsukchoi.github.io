@@ -39,9 +39,9 @@ in-depth experience in 3D reconstruction and neural image generation.
 <b>Hongsuk Choi (*)</b>, Isaac Kasahara (*), Selim Engin, Moritz Alexander Graule, Nikhil
 Chavan-Dafle, Volkan Isler (* equal contribution)
 <br>
-<b>arxiv</b>
+<b>preprint</b>
 <br>
-[<a href="https://samsunglabs.github.io/FineControlNet-project-page/">HOMEPAGE</a>] [<a href="https://arxiv.org/abs/2312.09252">ARXIV</a>] [<a>CODE</a>] 
+[<a href="https://samsunglabs.github.io/FineControlNet-project-page/">HOMEPAGE</a>] [<a href="https://arxiv.org/abs/2312.09252">ARXIV</a>] [<a href="https://github.com/SamsungLabs/FineControlNet">CODE</a>] 
 </div>
 </p>
 <br>
@@ -59,7 +59,7 @@ Chavan-Dafle, Volkan Isler (* equal contribution)
 <br>
 <b>Hongsuk Choi</b>, Nikhil Chavan-Dafle, Jiacheng Yuan, Volkan Isler, Hyunsoo Park
 <br>
-<b>arxiv</b>
+<b>preprint</b>
 <br>
 [<a href="https://arxiv.org/abs/2309.07891">ARXIV</a>] [<a href="https://youtu.be/AxkIFcymwIo?si=STr244Exi6cOHG_w">VIDEO</a>] [<a href="https://github.com/SamsungLabs/HandNeRF">CODE</a>] 
 </div>
