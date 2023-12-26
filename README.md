@@ -13,8 +13,6 @@ Email: **redstonepo@gmail.com**
 
 ### **Introduction**
 
-> Open to work
-
 I am interested in a broad range of machine learning and computer vision topics. I have
 in-depth experience in 3D reconstruction and neural image generation.
 
