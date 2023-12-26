@@ -263,7 +263,7 @@ In <b>ECCV 2020</b>
 
 ### **Experience**
 <p align="middle">
-<img src="images/SAIC-NY.png" width="50%" height="50px">
+<img src="images/SAIC-NY.png" width="70%" height="50px">
 </p>
 <p align="center">
   <b>ML/CV Researcher</b>, <b>Samsung Research America</b>, New York, NY, USA <br> (Jun. 2022 - present)
