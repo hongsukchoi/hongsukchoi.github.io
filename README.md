@@ -1,7 +1,7 @@
 ![image](./images/hongsukchoi_photo_0.png){: style="float: left; width: 175px; height: 225px; margin-right: 1em; margin-top: 0.5em  "}
 
 ### **Researcher**
-I am a Machine Learning / Computer Vision Researcher at Samsung AI center, New York. I received a Master's degree at Seoul National University (SNU) computer vision lab after converting my PhD program. I was advised by Prof. <a href="https://cv.snu.ac.kr/index.php/kmlee/"> Kyoung Mu Lee</a>, Editor in Chief (EIC), IEEE Trans. on PAMI (Pattern Analysis and Machine Intelligence). Please refer to my **[CV](images/CV_Hongsuk_Choi.pdf)** for more information.
+I am a Machine Learning / Computer Vision Researcher at Samsung AI center, New York. I received a Master's degree at Seoul National University (SNU) computer vision lab after converting my PhD program. I was advised by Prof. <a href="https://cv.snu.ac.kr/index.php/kmlee/"> Kyoung Mu Lee</a>, Editor in Chief (EIC), IEEE Trans. on PAMI (Pattern Analysis and Machine Intelligence). Please refer to my **[CV](./CV_Hongsuk_Choi.pdf)** for more information.
 Email: **redstonepo@gmail.com** 
 
 [Google Scholar](https://scholar.google.com/citations?user=CZbowncAAAAJ&hl=en) \
@@ -59,6 +59,7 @@ Chavan-Dafle, Volkan Isler (* equal contribution)
 <br>
 <b>preprint</b>
 <br>
+[<a href="https://samsunglabs.github.io/HandNeRF-project-page/">HOMEPAGE</a>]
 [<a href="https://arxiv.org/abs/2309.07891">ARXIV</a>] [<a href="https://youtu.be/AxkIFcymwIo?si=STr244Exi6cOHG_w">VIDEO</a>] [<a href="https://github.com/SamsungLabs/HandNeRF">CODE</a>] 
 </div>
 </p>
