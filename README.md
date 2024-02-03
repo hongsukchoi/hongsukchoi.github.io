@@ -16,7 +16,7 @@ Email: **redstonepo@gmail.com**
 I am interested in a broad range of machine learning and computer vision topics. I have
 in-depth experience in 3D reconstruction and neural image generation.
 
-- Published <b>9 papers</b> at top ML/CV conferences (<b>CVPR, ECCV, ICLR</b>) in <b>2 years of my Master’s program</b>.
+- Published <b>9 papers</b> at top conferences (<b>CVPR, ICLR, ICRA</b>) in <b>2 years of my Master’s program</b>.
 - <b>First authored on 7 papers</b> out of 11 papers and filed 3 patents.
 - Hands-on experience in various deep learning architectures: GraphCNN, Sparse 3D CNN, Transformer, NeRF, GRU, Diffusion-based LLM, Contrastive Learning, GAN, etc.
 - My work has over 600 Google Scholar citations, an H-index of 7 in 3 years.
@@ -57,7 +57,7 @@ Chavan-Dafle, Volkan Isler (* equal contribution)
 <br>
 <b>Hongsuk Choi</b>, Nikhil Chavan-Dafle, Jiacheng Yuan, Volkan Isler, Hyunsoo Park
 <br>
-<b>preprint</b>
+<b>ICRA 2024</b>
 <br>
 [<a href="https://samsunglabs.github.io/HandNeRF-project-page/">HOMEPAGE</a>]
 [<a href="https://arxiv.org/abs/2309.07891">ARXIV</a>] [<a href="https://youtu.be/AxkIFcymwIo?si=STr244Exi6cOHG_w">VIDEO</a>] [<a href="https://github.com/SamsungLabs/HandNeRF">CODE</a>] 
