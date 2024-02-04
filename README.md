@@ -55,7 +55,7 @@ Chavan-Dafle, Volkan Isler (* equal contribution)
 <br>
 <b>Hongsuk Choi</b>, Nikhil Chavan-Dafle, Jiacheng Yuan, Volkan Isler, Hyunsoo Park
 <br>
-<b>In ICRA 2024</b>
+In <b> ICRA 2024</b>
 <br>
 [<a href="https://samsunglabs.github.io/HandNeRF-project-page/">HOMEPAGE</a>]
 [<a href="https://arxiv.org/abs/2309.07891">ARXIV</a>] [<a href="https://youtu.be/AxkIFcymwIo?si=STr244Exi6cOHG_w">VIDEO</a>] [<a href="https://github.com/SamsungLabs/HandNeRF">CODE</a>] 
