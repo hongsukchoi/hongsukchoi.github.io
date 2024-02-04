@@ -16,12 +16,10 @@ Email: **redstonepo@gmail.com**
 I am interested in a broad range of machine learning and computer vision topics. I have
 in-depth experience in 3D reconstruction and neural image generation.
 
-- Published <b>9 papers</b> at top conferences (<b>CVPR, ICLR, ICRA</b>) in <b>2 years of my Master’s program</b>.
-- <b>First authored on 7 papers</b> out of 11 papers and filed 3 patents.
-- Hands-on experience in various deep learning architectures: GraphCNN, Sparse 3D CNN, Transformer, NeRF, GRU, Diffusion-based LLM, Contrastive Learning, GAN, etc.
-- My work has over 600 Google Scholar citations, an H-index of 7 in 3 years.
-- I maintain GitHub projects with <b>1000 stars</b>.
-- I am a green card holder in the US, having received EB1 (Outstanding Researcher) approval from USCIS.
+- Over 5 years of software engineering experience in both small and large companies, performing frontend, backend, and AI research
+- In-depth experience in large language model, generative AI, and 3D reconstruction models. Maintain opensource projects
+- First authored 7 papers out of 11 total papers (ex. CVPR, ICLR, ICRA) and filed 3 patents, most completed during my 2 years in a Master's program
+- Strong expertise in Python and Pytorch. Familiar with CUDA
 
 <br>
 
@@ -57,7 +55,7 @@ Chavan-Dafle, Volkan Isler (* equal contribution)
 <br>
 <b>Hongsuk Choi</b>, Nikhil Chavan-Dafle, Jiacheng Yuan, Volkan Isler, Hyunsoo Park
 <br>
-<b>ICRA 2024</b>
+<b>In ICRA 2024</b>
 <br>
 [<a href="https://samsunglabs.github.io/HandNeRF-project-page/">HOMEPAGE</a>]
 [<a href="https://arxiv.org/abs/2309.07891">ARXIV</a>] [<a href="https://youtu.be/AxkIFcymwIo?si=STr244Exi6cOHG_w">VIDEO</a>] [<a href="https://github.com/SamsungLabs/HandNeRF">CODE</a>] 
