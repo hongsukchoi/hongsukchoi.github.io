@@ -4,9 +4,8 @@
 I am a Machine Learning / Computer Vision Researcher at Samsung AI center, New York. I received a Master's degree at Seoul National University (SNU) computer vision lab after converting my PhD program. I was advised by Prof. <a href="https://cv.snu.ac.kr/index.php/kmlee/"> Kyoung Mu Lee</a>, Editor in Chief (EIC), IEEE Trans. on PAMI (Pattern Analysis and Machine Intelligence). Please refer to my **[CV](./CV_Hongsuk_Choi.pdf)** for more information.
 Email: **redstonepo@gmail.com** 
 
-[Google Scholar](https://scholar.google.com/citations?user=CZbowncAAAAJ&hl=en) \
-[Linkedin](https://www.linkedin.com/in/hongsuk-choi-6b081a143/) \
-[Github](https://github.com/hongsukchoi)
+Professional: [Google Scholar](https://scholar.google.com/citations?user=CZbowncAAAAJ&hl=en) / [Linkedin](https://www.linkedin.com/in/hongsuk-choi-6b081a143/) / [Github](https://github.com/hongsukchoi)  
+Casual but...: [Youtube](https://www.youtube.com/@redstonechoi) / [Blog](https://redstarhong.tistory.com/)
 
         
 <br>
