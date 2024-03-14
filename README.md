@@ -57,7 +57,7 @@ Chavan-Dafle, Volkan Isler (* equal contribution)
 In <b> ICRA 2024</b>
 <br>
 [<a href="https://samsunglabs.github.io/HandNeRF-project-page/">HOMEPAGE</a>]
-[<a href="https://arxiv.org/abs/2309.07891">ARXIV</a>] [<a href="https://youtu.be/AxkIFcymwIo?si=STr244Exi6cOHG_w">VIDEO</a>] [<a href="https://github.com/SamsungLabs/HandNeRF">CODE</a>] 
+[<a href="https://arxiv.org/abs/2309.07891">ARXIV</a>] [<a href="https://youtu.be/AxkIFcymwIo?si=STr244Exi6cOHG_w">VIDEO</a>] [<a href="https://github.com/hongsukchoi/HandNeRF_RELEASE">CODE</a>] 
 </div>
 </p>
 <br>
