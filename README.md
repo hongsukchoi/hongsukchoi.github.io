@@ -1,11 +1,14 @@
 ![image](./images/hongsukchoi_photo_0.png){: style="float: left; width: 175px; height: 225px; margin-right: 1em; margin-top: 0.5em  "}
 
 ### **Researcher**
-I am a Machine Learning / Computer Vision Researcher at Samsung AI center, New York. I received a Master's degree at Seoul National University (SNU) computer vision lab after converting my PhD program. I was advised by Prof. <a href="https://cv.snu.ac.kr/index.php/kmlee/"> Kyoung Mu Lee</a>, Editor in Chief (EIC), IEEE Trans. on PAMI (Pattern Analysis and Machine Intelligence). Please refer to my **[CV](./CV_Hongsuk_Choi.pdf)** for more information.
-Email: **redstonepo@gmail.com** 
+I will begin my PhD in the EECS department at UC Berkeley as part of the BAIR program this fall (2024)! I have the privilege of potentially being advised by Angjoo Kanazawa and Jitendra Malik. My research interests span a wide range of topics in machine learning and computer vision, and I aim to focus more on robotics during my PhD journey!
 
-Professional: [Google Scholar](https://scholar.google.com/citations?user=CZbowncAAAAJ&hl=en) / [Linkedin](https://www.linkedin.com/in/hongsuk-choi-6b081a143/) / [Github](https://github.com/hongsukchoi)  
-Casual but...: [Youtube](https://www.youtube.com/@redstonechoi) / [Blog](https://redstarhong.tistory.com/)
+Email: **redstonepo@gmail.com**  
+[Google Scholar](https://scholar.google.com/citations?user=CZbowncAAAAJ&hl=en)  
+[Linkedin](https://www.linkedin.com/in/hongsuk-choi-6b081a143/)  
+[Github](https://github.com/hongsukchoi)  
+[Youtube](https://www.youtube.com/@redstonechoi)  
+[Korean Blog](https://redstarhong.tistory.com/)  
 
         
 <br>
@@ -13,12 +16,7 @@ Casual but...: [Youtube](https://www.youtube.com/@redstonechoi) / [Blog](https:/
 ### **Introduction**
 
 I am interested in a broad range of machine learning and computer vision topics. I have
-in-depth experience in 3D reconstruction and neural image generation.
-
-- Over 5 years of software engineering experience in both small and large companies, performing frontend, backend, and AI research
-- In-depth experience in large language model, generative AI, and 3D reconstruction models. Maintain opensource projects
-- First authored 7 papers out of 11 total papers (ex. CVPR, ICLR, ICRA) and filed 3 patents, most completed during my 2 years in a Master's program
-- Strong expertise in Python and Pytorch. Familiar with CUDA
+in-depth experience in 3D reconstruction and neural image generation. I first authored 7 papers out of 11 total papers (ex. CVPR, ICLR, ICRA) and filed 3 patents, most completed during my 2 years in a Master's program
 
 <br>
 
