@@ -13,7 +13,7 @@ Email: **redstonepo@gmail.com**
 
 ### **Introduction**
 
-I will begin my PhD in the EECS department at UC Berkeley as part of the BAIR program this fall (2024)! I have the privilege of potentially being advised by [Angjoo Kanazawa](https://people.eecs.berkeley.edu/~kanazawa/) and Jitendra Malik. My research interests span a wide range of topics in machine learning and computer vision, and I aim to focus more on robotics during my PhD journey! Previously, I was advised by [Kyoung Mu Lee](https://cv.snu.ac.kr/index.php/kmlee/). I first authored 7 papers out of 11 total papers (ex. CVPR, ICLR, ICRA) and filed 3 patents, most completed during my 2 years in a Master's program
+I will begin my PhD in the EECS department at UC Berkeley as part of the BAIR program this fall (2024)! I have the privilege of potentially being advised by [Angjoo Kanazawa](https://people.eecs.berkeley.edu/~kanazawa/) and Jitendra Malik. My research interests span a wide range of topics in machine learning and computer vision, and I aim to focus more on robotics during my PhD journey! Previously, I was advised by [Kyoung Mu Lee](https://cv.snu.ac.kr/index.php/kmlee/). I first authored 7 papers out of 11 total papers (ex. CVPR, ICLR, ICRA) and filed 3 patents, most completed during my 2 years in a Master's program. Please refer to my **[CV](./CV_Hongsuk_Choi.pdf)** for more information. 
 
 <br>
 
