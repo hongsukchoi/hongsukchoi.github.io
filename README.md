@@ -13,7 +13,7 @@ Email: **redstonepo@gmail.com**
 
 ### **Introduction**
 
-I will begin my PhD in the EECS department at UC Berkeley as part of the BAIR program this fall (2024)! I have the privilege of potentially being advised by [Angjoo Kanazawa](https://people.eecs.berkeley.edu/~kanazawa/) and Jitendra Malik. My research interests span a wide range of topics in machine learning and computer vision, and I aim to focus more on robotics during my PhD journey! Previously, I was advised by [Kyoung Mu Lee](https://cv.snu.ac.kr/index.php/kmlee/). I first authored 7 papers out of 11 total papers (ex. CVPR, ICLR, ICRA) and filed 3 patents, most completed during my 2 years in a Master's program. Please refer to my **[CV](./CV_Hongsuk_Choi.pdf)** for more information. 
+I will begin my PhD in the EECS department at UC Berkeley as part of the BAIR program this fall (2024)! I have the privilege of potentially being advised by [Angjoo Kanazawa](https://people.eecs.berkeley.edu/~kanazawa/) and [Jitendra Malik](https://people.eecs.berkeley.edu/~malik/). My research interests span a wide range of topics in machine learning and computer vision, and I aim to focus more on robotics during my PhD journey! Previously, I was advised by [Kyoung Mu Lee](https://cv.snu.ac.kr/index.php/kmlee/) and worked with [Gyeongsik Moon](https://mks0601.github.io/). I first authored 7 papers out of 11 total papers (ex. CVPR, ICLR, ICRA) and filed 3 patents, most completed during my 2 years in a Master's program. Please refer to my **[CV](./CV_Hongsuk_Choi.pdf)** for more information. 
 
 <br>
 
@@ -247,33 +247,40 @@ In <b>ECCV 2020</b>
 <br>
 
 ### **Service**
-* A Reviewer for computer vision and machine learning conferences 
-\- <b>CVPR</b>, <b>ICCV</b>, <b>ECCV</b>, <b>NeuRIPS</b> and others
-* A Reviewer for computer vision journals
-\- <b>TPAMI</b>, IEEE TIP and others
+* A Reviewer for computer vision and machine learning conferences <b>every year</b>
+\- <b>CVPR</b>, <b>ICCV</b>, <b>ECCV</b>, <b>NeuRIPS</b>, and others
+* A Reviewer for computer vision journals <b>every year</b>
+\- <b>TPAMI</b>, <b>TIP</b>, <b>IJCV</b> and others
 
 <br>
 
 ### **Experience**
 <p align="middle">
+<img src="images/BAIR_Logo.png" width="30%">
+</p>
+<p align="center">
+  <b>Ph.D. candidate, Electrical Engineering and Computer Sciences, UC Berkeley</b>, Berkeley, CA, USA <br> 2024 - present
+</p>
+
+<p align="middle">
 <img src="images/SAIC-NY.png" width="70%" height="50px">
 </p>
 <p align="center">
-  <b>ML/CV Researcher</b>, <b>Samsung Research America</b>, New York, NY, USA <br> (Jun. 2022 - present)
+  <b>ML Research Engineer</b>, <b>Samsung Research America (SRA)</b>, New York, NY, USA <br> 2022 - 2024
 </p>
 
 <p align="middle">
 <img src="images/Naver.png" width="280px" height="50px">
 </p>
 <p align="center">
-  <b>Visiting Researcher</b>, <b>Naver CLOVA AI Lab</b>, Seoul, Korea <br> (Mar. 2022 - May. 2022)
+  <b>Visiting Researcher</b>, <b>Naver CLOVA AI Lab</b>, Seoul, Korea <br> 2022
 </p>
 
 <p align="middle">
 <img src="images/NLE.jpg" width="230px" height="50px">
 </p>
 <p align="center">
-  <b>Research Intern</b>, <b>Naver Labs Europe (NLE)</b>, Grenoble, France <br> (April. 2021 - Oct. 2021)
+  <b>Research Intern</b>, <b>Naver Labs Europe (NLE)</b>, Grenoble, France <br> 2021
 </p>
 
 
@@ -281,7 +288,7 @@ In <b>ECCV 2020</b>
 <img src="images/SNU.png" width="100px" height="100px">
 </p>
 <p align="center">
-  <b>M.S.</b>, ECE, <b>Seoul National University (SNU)</b>, Seoul, Korea <br> (Mar. 2020 - Feb. 2022)
+  <b>M.S., Electrical and Computer Engineering, Seoul National University (SNU)</b>, Seoul, Korea <br> 2020 - 2022
 </p>
 
 
@@ -289,12 +296,12 @@ In <b>ECCV 2020</b>
 <img src="images/roka.png" swidth="300px" height="100px">
 </p>
 <p align="center">
-  <b>Repulic of Korea Airforce (ROKA)</b>, Gyeryong, Korea <br> (Mar. 2015 - Mar. 2017)
+  <b>Repulic of Korea Airforce (ROKA)</b>, Gyeryong, Korea <br> 2015 - 2017
 </p>
 
 <p align="middle">
 <img src="images/SNU.png" width="100px" height="100px">
 </p>
 <p align="center">
-  <b>B.S.</b>, Business, CSE, <b>Seoul National University (SNU)</b>, Seoul, Korea <br> (Mar. 2013 - Feb. 2020)
+  <b>B.S., Business | Computer Science & Engineering, Seoul National University (SNU)</b>, Seoul, Korea <br> 2013 - 2020
 </p>
