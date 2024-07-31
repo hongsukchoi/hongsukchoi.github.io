@@ -6,14 +6,13 @@ Email: **redstonepo@gmail.com**
 [Linkedin](https://www.linkedin.com/in/hongsuk-choi-6b081a143/)  
 [Github](https://github.com/hongsukchoi)  
 [Youtube](https://www.youtube.com/@redstonechoi)  
-[Korean Blog](https://redstarhong.tistory.com/)  
 
         
 <br>
 
 ### **Introduction**
 
-I will begin my PhD in the EECS department at UC Berkeley as part of the BAIR program this fall (2024)! I have the privilege of potentially being advised by [Angjoo Kanazawa](https://people.eecs.berkeley.edu/~kanazawa/) and [Jitendra Malik](https://people.eecs.berkeley.edu/~malik/). My research interests span a wide range of topics in machine learning and computer vision, and I aim to focus more on robotics during my PhD journey! Previously, I was advised by [Kyoung Mu Lee](https://cv.snu.ac.kr/index.php/kmlee/) and worked with [Gyeongsik Moon](https://mks0601.github.io/). I first authored 7 papers out of 11 total papers (ex. CVPR, ICLR, ICRA) and filed 3 patents, most completed during my 2 years in a Master's program. Please refer to my **[CV](./CV_Hongsuk_Choi.pdf)** for more information. 
+I will begin my PhD in the EECS department at UC Berkeley as part of the BAIR program this fall (2024)! I have the privilege of potentially being advised by Prof. [Angjoo Kanazawa](https://people.eecs.berkeley.edu/~kanazawa/) and Prof. [Jitendra Malik](https://people.eecs.berkeley.edu/~malik/). My research interests span a wide range of topics in machine learning and computer vision, and I aim to focus more on robotics during my PhD journey! Previously, I was advised by Prof. [Kyoung Mu Lee](https://cv.snu.ac.kr/index.php/kmlee/) and worked with Prof. [Gyeongsik Moon](https://mks0601.github.io/). I first authored 7 papers out of 11 total papers (ex. CVPR, ICLR, ICRA) and filed 3 patents, most completed during my 2 years in a Master's program. Please refer to my **[CV](./CV_Hongsuk_Choi.pdf)** for more information. 
 
 <br>
 
@@ -256,14 +255,14 @@ In <b>ECCV 2020</b>
 
 ### **Experience**
 <p align="middle">
-<img src="images/BAIR_Logo.png" width="30%">
+<img src="images/BAIR_Logo.png" width="60%">
 </p>
 <p align="center">
   <b>Ph.D. candidate, Electrical Engineering and Computer Sciences, UC Berkeley</b>, Berkeley, CA, USA <br> 2024 - present
 </p>
 
 <p align="middle">
-<img src="images/SAIC-NY.png" width="70%" height="50px">
+<img src="images/SAIC-NY.png" width="70%">
 </p>
 <p align="center">
   <b>ML Research Engineer</b>, <b>Samsung Research America (SRA)</b>, New York, NY, USA <br> 2022 - 2024
