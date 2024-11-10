@@ -12,7 +12,7 @@ Email: **redstonepo@gmail.com**
 
 ### **Introduction**
 
-I will begin my PhD in the EECS department at UC Berkeley as part of the BAIR program this fall (2024)! I have the privilege of potentially being advised by Prof. [Angjoo Kanazawa](https://people.eecs.berkeley.edu/~kanazawa/) and Prof. [Jitendra Malik](https://people.eecs.berkeley.edu/~malik/). My research interests span a wide range of topics in machine learning and computer vision, and I aim to focus more on robotics during my PhD journey! Previously, I was advised by Prof. [Kyoung Mu Lee](https://cv.snu.ac.kr/index.php/kmlee/) and worked with Prof. [Gyeongsik Moon](https://mks0601.github.io/). I first authored 7 papers out of 11 total papers (ex. CVPR, ICLR, ICRA) and filed 3 patents, most completed during my 2 years in a Master's program. Please refer to my **[CV](./CV_Hongsuk_Choi.pdf)** for more information. 
+I am a first year CS PhD student in the EECS department at UC Berkeley as part of the BAIR program! I am advised by Prof. [Angjoo Kanazawa](https://people.eecs.berkeley.edu/~kanazawa/) and Prof. [Jitendra Malik](https://people.eecs.berkeley.edu/~malik/). My research interests span a wide range of topics in machine learning and computer vision, and I aim to focus more on robotics during my PhD journey! Previously, I was advised by Prof. [Kyoung Mu Lee](https://cv.snu.ac.kr/index.php/kmlee/) and worked with Prof. [Gyeongsik Moon](https://mks0601.github.io/) deeply working in 3D computer vision. I first authored 7 papers out of 11 total papers (ex. CVPR, ICLR, ICRA) and filed 3 patents, most completed during my 2 years in a Master's program. Please refer to my **[CV](./CV_Hongsuk_Choi.pdf)** for more information. 
 
 <br>
 
@@ -28,7 +28,7 @@ I will begin my PhD in the EECS department at UC Berkeley as part of the BAIR pr
 <b>Hongsuk Choi (*)</b>, Isaac Kasahara (*), Selim Engin, Moritz Alexander Graule, Nikhil
 Chavan-Dafle, Volkan Isler (* equal contribution)
 <br>
-<b>preprint</b>
+In <b> WACV 2025</b>
 <br>
 [<a href="https://samsunglabs.github.io/FineControlNet-project-page/">HOMEPAGE</a>] [<a href="https://arxiv.org/abs/2312.09252">ARXIV</a>] [<a href="https://github.com/SamsungLabs/FineControlNet">CODE</a>] 
 </div>
