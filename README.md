@@ -18,6 +18,24 @@ I am a first year CS PhD student in the EECS department at UC Berkeley as part o
 
 ### **Publications (Selected)**
 
+<!--HSfM-->
+<p>
+<img src="images/hsfm_teaser.png" align="left" style="width:360px; height:200px; margin-right:10px;  vertical-align=middle;">
+<div style="margin-bottom:60px;">
+<b><font color="0066CC"> HSfM: Reconstrucing People, Places, and Cameras </font></b>
+<br>
+Lea Müller (*), <b>Hongsuk Choi (*)</b>, Anthony Zhang, Brent Yi, Jitendra Malik, Angjoo Kanazawa (* equal contribution)
+<br>
+preprint
+<br>
+[<a href="https://muelea.github.io/hsfm/">HOMEPAGE</a>] [<a href="https://arxiv.org/abs/2412.17806">ARXIV</a>] 
+</div>
+</p>
+<br>
+<br>
+<br>
+
+
 
 <!--FineControlNet-->
 <p>
@@ -42,7 +60,7 @@ In <b> WACV 2025</b>
 
 <!--HandNeRF-->
 <p>
-<img src="images/3drecon.gif" align="left" style="width:360px; height:200px; margin-right:10px;  vertical-align=middle;">
+<img src="images/handnerf_comp_teaser.gif" align="left" style="width:360px; height:200px; margin-right:10px;  vertical-align=middle;">
 <div style="margin-bottom:60px;">
 <b><font color="0066CC"> HandNeRF: Learning to Reconstruct Hand-Object Interaction Scene from a Single RGB Image </font></b>
 <br>
