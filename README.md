@@ -28,7 +28,7 @@ Lea Müller (*), <b>Hongsuk Choi (*)</b>, Anthony Zhang, Brent Yi, Jitendra Mali
 <br>
 preprint
 <br>
-[<a href="https://muelea.github.io/hsfm/">HOMEPAGE</a>] [<a href="https://arxiv.org/abs/2412.17806">ARXIV</a>] 
+[<a href="https://muelea.github.io/hsfm/">HOMEPAGE</a>] [<a href="https://arxiv.org/abs/2412.17806">ARXIV</a>] [<a href="https://github.com/hongsukchoi/HSfM_RELEASE">CODE</a>]
 </div>
 </p>
 <br>
