@@ -26,7 +26,7 @@ I am a first year CS PhD student in the EECS department at UC Berkeley as part o
 <br>
 Lea Müller (*), <b>Hongsuk Choi (*)</b>, Anthony Zhang, Brent Yi, Jitendra Malik, Angjoo Kanazawa (* equal contribution)
 <br>
-preprint
+In <b> CVPR 2025</b>
 <br>
 [<a href="https://muelea.github.io/hsfm/">HOMEPAGE</a>] [<a href="https://arxiv.org/abs/2412.17806">ARXIV</a>] [<a href="https://github.com/hongsukchoi/HSfM_RELEASE">CODE</a>]
 </div>
