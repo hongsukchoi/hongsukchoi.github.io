@@ -12,7 +12,7 @@ Email: **redstonepo@gmail.com**
 
 ### **Introduction**
 
-I am a first year CS PhD student in the EECS department at UC Berkeley as part of the BAIR program! I am advised by Prof. [Angjoo Kanazawa](https://people.eecs.berkeley.edu/~kanazawa/) and Prof. [Jitendra Malik](https://people.eecs.berkeley.edu/~malik/). My research interests span a wide range of topics in machine learning and computer vision, and I aim to focus more on robotics during my PhD journey! Previously, I was advised by Prof. [Kyoung Mu Lee](https://cv.snu.ac.kr/index.php/kmlee/) and worked with Prof. [Gyeongsik Moon](https://mks0601.github.io/) deeply working in 3D computer vision. I first authored 7 papers out of 11 total papers (ex. CVPR, ICLR, ICRA) and filed 3 patents, most completed during my 2 years in a Master's program. Please refer to my **[CV](./CV_Hongsuk_Choi.pdf)** for more information. 
+I am a first year CS PhD student in the EECS department at UC Berkeley as part of the BAIR program! I am advised by Prof. [Angjoo Kanazawa](https://people.eecs.berkeley.edu/~kanazawa/) and Prof. [Jitendra Malik](https://people.eecs.berkeley.edu/~malik/). My research interests lie in generative priors, 3D computer vision, and robotics. Previously, I was advised by Prof. [Kyoung Mu Lee](https://cv.snu.ac.kr/index.php/kmlee/) and worked with Prof. [Gyeongsik Moon](https://mks0601.github.io/) deeply working in 3D computer vision. Please refer to my **[CV](./CV_Hongsuk_Choi.pdf)** for more information. 
 
 <br>
 
@@ -26,7 +26,7 @@ I am a first year CS PhD student in the EECS department at UC Berkeley as part o
 <br>
 Lea Müller (*), <b>Hongsuk Choi (*)</b>, Anthony Zhang, Brent Yi, Jitendra Malik, Angjoo Kanazawa (* equal contribution)
 <br>
-In <b> CVPR 2025</b>
+In <b> CVPR 2025 (Highlight)</b>
 <br>
 [<a href="https://muelea.github.io/hsfm/">HOMEPAGE</a>] [<a href="https://arxiv.org/abs/2412.17806">ARXIV</a>] [<a href="https://github.com/hongsukchoi/HSfM_RELEASE">CODE</a>]
 </div>
