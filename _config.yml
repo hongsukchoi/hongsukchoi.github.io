@@ -1,7 +1,0 @@
-title: Hongsuk Benjamin Choi
-# description: Nice to meet you!
-# theme: minima
-minima:
-  skin: dark
-  social_links:
-    - { platform: github,  user_url: "https://github.com/hongsukchoi" }

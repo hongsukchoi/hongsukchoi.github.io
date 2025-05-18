@@ -1,0 +1,367 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <title>Hongsuk Choi</title>
+
+    <!-- Usual metadata. -->
+    <meta charset="UTF-8" />
+    <link href="./favicon.png" rel="shortcut icon" type="image/x-icon" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, minimum-scale=1"
+    />
+
+    <!-- Webfont. -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap"
+      rel="stylesheet"
+    />
+
+    <!-- Styles. -->
+    <link
+      href="https://cdn.jsdelivr.net/npm/modern-normalize@3.0.1/modern-normalize.min.css"
+      rel="stylesheet"
+    />
+    <link href="style.css" rel="stylesheet" type="text/css" />
+
+    <!-- Google tag (gtag.js) -->
+    <script
+      async
+      src="https://www.googletagmanager.com/gtag/js?id=G-0FW53JBMTC"
+    ></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+      gtag("js", new Date());
+
+      gtag("config", "G-0FW53JBMTC");
+    </script>
+  </head>
+  <body>
+    <div style="height: 4em"></div>
+    <section
+      style="
+        display: flex;
+        align-items: start;
+        gap: 2em 2em;
+        flex-wrap: wrap-reverse;
+      "
+    >
+      <div style="flex-grow: 1; flex-basis: 20em">
+        <h1>Hongsuk Choi</h1>
+        <p>
+        Email: <a href="mailto:redstonepo@gmail.com">redstonepo@gmail.com</a>
+        </p>
+        <p>
+          I am a first year CS PhD student in the EECS department at UC Berkeley as part of the BAIR program! I am advised by Prof. <a href="https://people.eecs.berkeley.edu/~kanazawa/">Angjoo Kanazawa</a> and Prof. <a href="https://people.eecs.berkeley.edu/~malik/">Jitendra Malik</a>. My research interests lie in generative priors, 3D computer vision, and robotics. Previously, I was advised by Prof. <a href="https://cv.snu.ac.kr/index.php/kmlee/">Kyoung Mu Lee</a> and worked with Prof. <a href="https://mks0601.github.io/">Gyeongsik Moon</a> deeply working in 3D computer vision. Please refer to my <a href="./cv.pdf">CV</a> for more information.
+        </p>
+        <p>
+          <a href="https://scholar.google.com/citations?user=CZbowncAAAAJ&hl=en">Google Scholar</a>
+          &nbsp;/&nbsp;
+          <a href="https://github.com/hongsukchoi">GitHub</a>
+          &nbsp;/&nbsp;
+          <a href="https://www.linkedin.com/in/hongsuk-choi-6b081a143/">LinkedIn</a>
+          &nbsp;/&nbsp;
+          <a href="https://www.youtube.com/@redstonechoi">YouTube</a>
+        </p>
+      </div>
+      <div style="display: block">
+        <img
+          src="./images/hongsukchoi_photo.jpg"
+          alt="A photo of Hongsuk Choi"
+          style="
+            width: 175px;
+            height: 225px;
+            aspect-ratio: auto;
+            object-fit: cover;
+            border-radius: 1px;
+          "
+        />
+      </div>
+    </section>
+    <section>
+      <h2>Publications</h2>
+      <!-- VideoMimic -->
+      <div class="paper paper-default paper-highlighted">
+        <img class="paper-visual" src="images/videomimic_teaser.gif" alt="Visual imitation enables contextual humanoid control">
+        <div class="paper-textual">
+          <h3>Visual imitation enables contextual humanoid control</h3>
+          <div style="height: 0.1em"></div>
+          Arthur&nbsp;Allshire*, <strong>Hongsuk&nbsp;Choi*</strong>, Junyi&nbsp;Zhang*, David&nbsp;McAllister*, Anthony&nbsp;Zhang, Chung&nbsp;Min&nbsp;Kim, Trevor&nbsp;Darrell, Pieter&nbsp;Abbeel, Jitendra&nbsp;Malik, Angjoo&nbsp;Kanazawa (* equal contribution).
+          <span style="font-weight: 450">arXiv 2025.</span>
+          <div style="height: 0.375em"></div>
+          <a href="https://www.videomimic.net">Homepage</a> / <a href="https://www.videomimic.net/VideoMimic.pdf">Paper</a> / <a href="https://arxiv.org/abs/2505.03729">arXiv</a> / <a href="https://github.com/hongsukchoi/VideoMimic">Code (soon)</a>
+          <div style="height: 0.375em"></div>
+        </div>
+      </div>
+
+      <!-- PyRoki -->
+      <div class="paper paper-default paper-highlighted">
+        <img class="paper-visual" src="images/pyroki_teaser.gif" alt="PyRoki: A Modular Toolkit for Robot Kinematic Optimization">
+        <div class="paper-textual">
+          <h3>PyRoki: A Modular Toolkit for Robot Kinematic Optimization</h3>
+          <div style="height: 0.1em"></div>
+          Chung&nbsp;Min&nbsp;Kim*, Brent&nbsp;Yi*, <strong>Hongsuk&nbsp;Choi</strong>, Yi&nbsp;Ma, Ken&nbsp;Goldberg, Angjoo&nbsp;Kanazawa (* equal contribution).
+          <span style="font-weight: 450">arXiv 2025.</span>
+          <div style="height: 0.375em"></div>
+          <a href="https://pyroki-toolkit.github.io/">Homepage</a> / <a href="https://arxiv.org/abs/2505.03728">Paper</a> / <a href="https://github.com/chungmin99/pyroki">Code</a>
+          <div style="height: 0.375em"></div>
+        </div>
+      </div>
+      
+
+      <!-- HSfM -->
+      <div class="paper paper-default paper-highlighted">
+        <img class="paper-visual" src="images/hsfm_teaser.png" alt="HSfM: Reconstrucing People, Places, and Cameras">
+        <div class="paper-textual">
+          <h3>Reconstrucing People, Places, and Cameras</h3>
+          <!-- <img src="./assets/new_animated.gif" alt="Blinking icon that says 'new'." /> -->
+          <div style="height: 0.1em"></div>
+          Lea&nbsp;Müller*, <strong>Hongsuk&nbsp;Choi*</strong>, Anthony&nbsp;Zhang, Brent&nbsp;Yi, Jitendra&nbsp;Malik, Angjoo&nbsp;Kanazawa (* equal contribution).
+          <span style="font-weight: 450">CVPR 2025 (Highlight).</span>
+          <div style="height: 0.375em"></div>
+          <a href="https://muelea.github.io/hsfm/">Homepage</a> / <a href="https://arxiv.org/abs/2412.17806">Paper</a> / <a href="https://github.com/hongsukchoi/HSfM_RELEASE">Code</a>
+          <div style="height: 0.375em"></div>
+        </div>
+      </div>
+
+      <!-- FineControlNet -->
+      <div class="paper paper-default">
+        <img class="paper-visual" src="images/finecontrolnet_teaser_clearer.gif" alt="FineControlNet">
+        <div class="paper-textual">
+          <h3>Fine-level Text Control for Image Generation with Spatially Aligned Text Control Injection</h3>
+          <div style="height: 0.1em"></div>
+          <strong>Hongsuk&nbsp;Choi*</strong>, Isaac&nbsp;Kasahara*, Selim&nbsp;Engin, Moritz&nbsp;Alexander&nbsp;Graule, Nikhil&nbsp;Chavan-Dafle, Volkan&nbsp;Isler (* equal contribution).
+          <span style="font-weight: 450">WACV 2025.</span>
+          <div style="height: 0.375em"></div>
+          <a href="https://samsunglabs.github.io/FineControlNet-project-page/">Homepage</a> / <a href="https://arxiv.org/abs/2312.09252">Paper</a> / <a href="https://github.com/SamsungLabs/FineControlNet">Code</a>
+          <div style="height: 0.375em"></div>
+        </div>
+      </div>
+
+      <!-- HandNeRF -->
+      <div class="paper paper-default">
+        <img class="paper-visual" src="images/handnerf_comp_teaser.gif" alt="HandNeRF">
+        <div class="paper-textual">
+          <h3>Learning to Reconstruct Hand-Object Interaction Scene from a Single RGB Image</h3>
+          <div style="height: 0.1em"></div>
+          <strong>Hongsuk&nbsp;Choi</strong>, Nikhil&nbsp;Chavan-Dafle, Jiacheng&nbsp;Yuan, Volkan&nbsp;Isler, Hyunsoo&nbsp;Park.
+          <span style="font-weight: 450">ICRA 2024.</span>
+          <div style="height: 0.375em"></div>
+          <a href="https://samsunglabs.github.io/HandNeRF-project-page/">Homepage</a> / <a href="https://arxiv.org/abs/2309.07891">Paper</a> / <a href="https://youtu.be/AxkIFcymwIo?si=STr244Exi6cOHG_w">Video</a> / <a href="https://github.com/hongsukchoi/HandNeRF_RELEASE">Code</a>
+          <div style="height: 0.375em"></div>
+        </div>
+      </div>
+
+      <!-- Rethinking -->
+      <div class="paper paper-default">
+        <img class="paper-visual" src="images/Pretrain_ICLR2023.png" alt="Rethinking Self-Supervised Visual Representation Learning">
+        <div class="paper-textual">
+          <h3>Rethinking Self-Supervised Visual Representation Learning in Pre-training for 3D Human Pose and Shape Estimation</h3>
+          <div style="height: 0.1em"></div>
+          <strong>Hongsuk&nbsp;Choi*</strong>, Hyeongjin&nbsp;Nam*, Taeryung&nbsp;Lee, Gyeongsik&nbsp;Moon, Kyoung&nbsp;Mu&nbsp;Lee (* equal contribution).
+          <span style="font-weight: 450">ICLR 2023.</span>
+          <div style="height: 0.375em"></div>
+          <a href="https://arxiv.org/abs/2303.05370">Paper</a> / <a href="https://iclr.cc/virtual/2023/poster/11695">Video</a>
+          <div style="height: 0.375em"></div>
+        </div>
+      </div>
+
+      <!-- Three Recipes -->
+      <div class="paper paper-default">
+        <img class="paper-visual" src="images/three_recipes.png" alt="Three Recipes for Better 3D Pseudo-GTs">
+        <div class="paper-textual">
+          <h3>Three Recipes for Better 3D Pseudo-GTs of 3D Human Mesh Estimation in the Wild</h3>
+          <div style="height: 0.1em"></div>
+          Gyeongsik&nbsp;Moon, <strong>Hongsuk&nbsp;Choi</strong>, Sanghyuk&nbsp;Chun, Jiyoung&nbsp;Lee, Sangdoo&nbsp;Yun.
+          <span style="font-weight: 450">CVPRW 2023.</span>
+          <div style="height: 0.375em"></div>
+          <a href="https://arxiv.org/abs/2304.04875">Paper</a> / <a href="https://openaccess.thecvf.com/content/CVPR2023W/CV4MR/papers/Moon_Three_Recipes_for_Better_3D_Pseudo-GTs_of_3D_Human_Mesh_CVPRW_2023_paper.pdf">PDF</a> / <a href="https://github.com/mks0601/NeuralAnnot_RELEASE">Homepage</a>
+          <div style="height: 0.375em"></div>
+        </div>
+      </div>
+
+      <!-- MonoNHR -->
+      <div class="paper">
+        <img class="paper-visual" src="images/MonoNHR_3DV2022.gif" alt="MonoNHR">
+        <div class="paper-textual">
+          <h3>MonoNHR: Monocular Neural Human Renderer</h3>
+          <div style="height: 0.1em"></div>
+          <strong>Hongsuk&nbsp;Choi*</strong>, Gyeongsik&nbsp;Moon*, Matthieu&nbsp;Armando, Vincent&nbsp;Leroy, Kyoung&nbsp;Mu&nbsp;Lee, Gregory&nbsp;Rogez (* equal contribution).
+          <span style="font-weight: 450">3DV 2022.</span>
+          <div style="height: 0.375em"></div>
+          <a href="https://arxiv.org/abs/2210.00627">Paper</a> / <a href="https://youtu.be/9-hfGf7dRw4">Video</a>
+          <div style="height: 0.375em"></div>
+        </div>
+      </div>
+
+      <div id="more-papers">
+        <!-- HandOccNet -->
+        <div class="paper">
+          <img class="paper-visual" src="images/handoccnet_teaser.gif" alt="HandOccNet">
+          <div class="paper-textual">
+            <h3>HandOccNet: Occlusion-Robust 3D Hand Mesh Estimation Network</h3>
+            <div style="height: 0.1em"></div>
+            JoonKyu&nbsp;Park*, Yeonguk&nbsp;Oh*, Gyeongsik&nbsp;Moon*, <strong>Hongsuk&nbsp;Choi</strong>, Kyoung&nbsp;Mu&nbsp;Lee (* equal contribution).
+            <span style="font-weight: 450">CVPR 2022.</span>
+            <div style="height: 0.375em"></div>
+            <a href="https://arxiv.org/abs/2203.14564">Paper</a> / <a href="https://github.com/namepllet/HandOccNet">Code</a>
+            <div style="height: 0.375em"></div>
+          </div>
+        </div>
+
+        <!-- 3DCrowdNet -->
+        <div class="paper">
+          <img class="paper-visual" src="images/3DCrowdNet_CVPR2022.png" alt="3DCrowdNet">
+          <div class="paper-textual">
+            <h3>Learning to Estimate Robust 3D Human Mesh from In-the-Wild Crowded Scenes</h3>
+            <div style="height: 0.1em"></div>
+            <strong>Hongsuk&nbsp;Choi</strong>, Gyeongsik&nbsp;Moon, JoonKyu&nbsp;Park, Kyoung&nbsp;Mu&nbsp;Lee.
+            <span style="font-weight: 450">CVPR 2022.</span>
+            <div style="height: 0.375em"></div>
+            <a href="https://arxiv.org/abs/2104.07300">Paper</a> / <a href="https://github.com/hongsukchoi/3DCrowdNet_RELEASE">Code</a>
+            <div style="height: 0.375em"></div>
+          </div>
+        </div>
+
+        <!-- Hand4Whole -->
+        <div class="paper">
+          <img class="paper-visual" src="images/Hand4Whole_CVPRW2022.png" alt="Hand4Whole">
+          <div class="paper-textual">
+            <h3>Accurate 3D Hand Pose Estimation for Whole-Body 3D Human Mesh Estimation</h3>
+            <div style="height: 0.1em"></div>
+            Gyeongsik&nbsp;Moon, <strong>Hongsuk&nbsp;Choi</strong>, Kyoung&nbsp;Mu&nbsp;Lee.
+            <span style="font-weight: 450">CVPRW 2022.</span>
+            <div style="height: 0.375em"></div>
+            <a href="https://arxiv.org/abs/2011.11534">Paper</a> / <a href="https://youtu.be/Ym_CH8yxBso">Video</a> / <a href="https://github.com/mks0601/Hand4Whole_RELEASE">Code</a>
+            <div style="height: 0.375em"></div>
+          </div>
+        </div>
+
+        <!-- NeuralAnnot -->
+        <div class="paper">
+          <img class="paper-visual" src="images/NeuralAnnot_CVPRW2022.png" alt="NeuralAnnot">
+          <div class="paper-textual">
+            <h3>NeuralAnnot: Neural Annotator for 3D Human Mesh Training Sets</h3>
+            <div style="height: 0.1em"></div>
+            Gyeongsik&nbsp;Moon, <strong>Hongsuk&nbsp;Choi</strong>, Kyoung&nbsp;Mu&nbsp;Lee.
+            <span style="font-weight: 450">CVPRW 2022.</span>
+            <div style="height: 0.375em"></div>
+            <a href="https://arxiv.org/abs/2011.11232">Paper</a> / <a href="https://github.com/mks0601/NeuralAnnot_RELEASE">Homepage</a>
+            <div style="height: 0.375em"></div>
+          </div>
+        </div>
+
+        <!-- TCMR -->
+        <div class="paper">
+          <img class="paper-visual" src="images/TCMR_CVPR2021.gif" alt="TCMR">
+          <div class="paper-textual">
+            <h3>Beyond Static Features for Temporally Consistent 3D Human Pose and Shape from a Video</h3>
+            <div style="height: 0.1em"></div>
+            <strong>Hongsuk&nbsp;Choi</strong>, Gyeongsik&nbsp;Moon, Ju&nbsp;Yong&nbsp;Chang, Kyoung&nbsp;Mu&nbsp;Lee.
+            <span style="font-weight: 450">CVPR 2021.</span>
+            <div style="height: 0.375em"></div>
+            <a href="https://arxiv.org/abs/2011.08627">Paper</a> / <a href="https://openaccess.thecvf.com/content/CVPR2021/papers/Choi_Beyond_Static_Features_for_Temporally_Consistent_3D_Human_Pose_and_CVPR_2021_paper.pdf">PDF</a> / <a href="https://github.com/hongsukchoi/TCMR_RELEASE">Code</a> / <a href="https://www.youtube.com/watch?v=WB3nTnSQDII">Video</a>
+            <div style="height: 0.375em"></div>
+          </div>
+        </div>
+
+        <!-- Pose2Mesh -->
+        <div class="paper">
+          <img class="paper-visual" src="images/Pose2Mesh_ECCV2020.png" alt="Pose2Mesh">
+          <div class="paper-textual">
+            <h3>Pose2Mesh: Graph Convolutional Network for 3D Human Pose and Mesh Recovery from a 2D Human Pose</h3>
+            <div style="height: 0.1em"></div>
+            <strong>Hongsuk&nbsp;Choi*</strong>, Gyeongsik&nbsp;Moon*, Kyoung&nbsp;Mu&nbsp;Lee (* equal contribution).
+            <span style="font-weight: 450">ECCV 2020.</span>
+            <div style="height: 0.375em"></div>
+            <a href="https://arxiv.org/abs/2008.09047">Paper</a> / <a href="https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123520749.pdf">PDF</a> / <a href="https://github.com/hongsukchoi/Pose2Mesh_RELEASE">Code</a> / <a href="https://youtu.be/utaHeByNauc">Video</a>
+            <div style="height: 0.375em"></div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section>
+      <h2>Honors</h2>
+      <div style="text-align: center; margin-bottom: 2em;">
+        <img src="images/Master_dissertation_award.jpg" style="width: 160px; height: 240px; margin-bottom: 1em;" alt="SNU Distinguished Master Dissertation Award">
+        <p><strong>SNU Distinguished Master Dissertation Award</strong> (2022)</p>
+      </div>
+      
+      <div style="text-align: center; margin-bottom: 2em;">
+        <div style="display: flex; justify-content: center; gap: 1em;">
+          <img src="images/3DPW_challenge_1st.png" style="width: 240px; height: 180px;" alt="3DPW Challenge 1st Place">
+          <img src="images/3DPW_challenge_2nd.png" style="width: 240px; height: 180px;" alt="3DPW Challenge 2nd Place">
+        </div>
+        <p><strong>1st place</strong> and <strong>2nd place</strong> at the <strong>3D human pose estimation in the wild (3DPW) challenge</strong> of a without association track in joint orientation and position metrics, respectively <br> (workshop in conjunction with <strong>ECCV 2020</strong>)</p>
+      </div>
+      
+      <div style="text-align: center; margin-bottom: 2em;">
+        <img src="images/Qualcomm.png" style="width: 225px; height: 80px; margin-bottom: 1em;" alt="Qualcomm IT Tour">
+        <p><strong>Qualcomm IT Tour 2019 presentation competition 1st place</strong> (2019)</p>
+      </div>
+    </section>
+
+    <section>
+      <h2>Service</h2>
+      <ul>
+        <li>A Reviewer for computer vision and machine learning conferences <strong>every year</strong>
+          <ul>
+            <li><strong>CVPR</strong>, <strong>ICCV</strong>, <strong>ECCV</strong>, <strong>NeuRIPS</strong>, and others</li>
+          </ul>
+        </li>
+        <li>A Reviewer for computer vision journals <strong>every year</strong>
+          <ul>
+            <li><strong>TPAMI</strong>, <strong>TIP</strong>, <strong>IJCV</strong> and others</li>
+          </ul>
+        </li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Experience</h2>
+      
+      <div style="text-align: center; margin-bottom: 2em;">
+        <img src="images/BAIR_Logo.png" style="width: 60%; margin-bottom: 1em;" alt="BAIR Logo">
+        <p><strong>Ph.D. candidate, Electrical Engineering and Computer Sciences, UC Berkeley</strong>, Berkeley, CA, USA <br> 2024 - present</p>
+      </div>
+      
+      <div style="text-align: center; margin-bottom: 2em;">
+        <img src="images/SAIC-NY.png" style="width: 70%; margin-bottom: 1em;" alt="Samsung Research America">
+        <p><strong>ML Research Engineer</strong>, <strong>Samsung Research America (SRA)</strong>, New York, NY, USA <br> 2022 - 2024</p>
+      </div>
+      
+      <div style="text-align: center; margin-bottom: 2em;">
+        <img src="images/Naver.png" style="width: 280px; height: 50px; margin-bottom: 1em;" alt="Naver CLOVA AI">
+        <p><strong>Visiting Researcher</strong>, <strong>Naver AI Lab</strong>, Seoul, Korea <br> 2022</p>
+      </div>
+      
+      <div style="text-align: center; margin-bottom: 2em;">
+        <img src="images/NLE.jpg" style="width: 230px; height: 50px; margin-bottom: 1em;" alt="Naver Labs Europe">
+        <p><strong>Research Intern</strong>, <strong>Naver Labs Europe (NLE)</strong>, Grenoble, France <br> 2021</p>
+      </div>
+      
+      <div style="text-align: center; margin-bottom: 2em;">
+        <img src="images/SNU.png" style="width: 100px; height: 100px; margin-bottom: 1em;" alt="Seoul National University">
+        <p><strong>M.S., Electrical and Computer Engineering, Seoul National University (SNU)</strong>, Seoul, Korea <br> 2020 - 2022</p>
+      </div>
+      
+      <div style="text-align: center; margin-bottom: 2em;">
+        <img src="images/roka.png" style="width: 300px; height: 130px; margin-bottom: 1em;" alt="Republic of Korea Airforce">
+        <p><strong>Repulic of Korea Airforce (ROKA)</strong>, Gyeryong, Korea <br> 2015 - 2017</p>
+      </div>
+      
+      <div style="text-align: center; margin-bottom: 2em;">
+        <img src="images/SNU.png" style="width: 100px; height: 100px; margin-bottom: 1em;" alt="Seoul National University">
+        <p><strong>B.S., Business | Computer Science & Engineering, Seoul National University (SNU)</strong>, Seoul, Korea <br> 2013 - 2020</p>
+      </div>
+    </section>
+    
+    <div style="height: 2em"></div>
+  </body>
+</html>
